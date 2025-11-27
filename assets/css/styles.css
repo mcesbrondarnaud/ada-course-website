@@ -165,7 +165,7 @@ section {
 .top-section {
     position: relative;
     height: 60vh;
-    background-image: url('css/img/hangoutsscreen_2.webp');
+    background-image: url('../img/hangoutsscreen_2.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
