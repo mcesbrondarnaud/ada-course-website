@@ -2,9 +2,6 @@
 <html lang="en">
 
 <head>
-
-  <!-- With the help of this : https://github.com/laetitia-wilhelm/ada-data_brigada-website/blob/master/index.html -->
-
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Academic Webpage" />
@@ -110,33 +107,59 @@
 </head>
 
 <body id="page-top">
-
-
-      <!-- For each section do something like this -->
-
-  
-    <!-- successMovie -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="successMovie">
+    <!-- Navigation-->
+    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
-            <header>
-                <h2 id="successMovie-subtitle"><i class="bi bi-successMovie-fill"></i>Movie's success </h2>
-            </header>
-            <div class="main-body" id="successMovieP1-md"></div>
-            
-            <div class="container px-5">
-                <h2>📈 Interactive Genre Trends Over Time</h2>
-                <p>Hover over any genre line to highlight its trend and see how its popularity has changed across decades.</p>
-            </div>
-            <div id="genre-trends-chart" style="height: 500px;"></div>
-            
-            <!-- Add your new markdown content here -->
-            <div class="main-body" id="successMovieP2-md"></div>
-        </div>
-    </section>
-    <!-- successMovie -->
+            <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
+            <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                MENU
+                <i class="bi-list"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#page-top">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#datapreprocessing">Dataset</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#character-adjectives">Character tropes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#successMovie">Movie's success</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#conclusion">Conclusion</a>
+                    </li>
 
-  
-      <!-- Introduction -->
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+
+    <!-- Top Section -->
+    <section class="top-section" style="background-image: url('static/assets/home_image.webp');">
+        <div class="top-section-content">
+            <div class="container-px-5-text-center">
+                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt">
+                    <!--  Your Catchy Heading -->
+                    <h1>The main question of our project ?</h1>
+                </h2>
+            </div>
+            <a href="#home" class="btn btn-custom">Let's Dive Into It </a>        </div>
+    </section>
+    <!-- Top Section -->
+    
+
+
+    <!-- Introduction -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="character-adjectives">
         <div class="container px-5">
             <header>
@@ -145,11 +168,64 @@
             <div class="main-body" id="introduction-md"></div>
         </div>
     </section>
-    <!-- Character -->
+    <!-- Introduction -->
 
 
 
-  <!-- Contact part -->
+
+   
+     
+
+    <!-- Team-->
+
+    <section id="team" style="background-color: #f7f2f2; padding: 50px 0;">
+        <div class="container">
+            <!-- Section Title -->
+            <h2 style="text-align: center; color: #800020;">The Data BrigADA Team</h2>
+            
+            <!-- Team Members -->
+            <div class="team-container" style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; margin-top: 40px; align-items: center; overflow-x: auto;">
+                <!-- Team Member 1 -->
+                <div class="team-member" style="text-align: center; min-width: 150px;">
+                    <h3 style="color: #800020;">Nhat Anh Dao</h3>
+                    <p style="color: #555;">SV</p>
+                </div>
+                <!-- Team Member 2 -->
+                <div class="team-member" style="text-align: center; min-width: 150px;">
+                    <h3 style="color: #800020;">Laetitia Wilhelm</h3>
+                    <p style="color: #555;">MT-RO</p>
+                </div>
+                <!-- Team Member 3 -->
+                <div class="team-member" style="text-align: center; min-width: 150px;">
+                    <h3 style="color: #800020;">Arian Bislimi</h3>
+                    <p style="color: #555;">SC-DS</p>
+                </div>
+                <!-- Team Member 4 -->
+                <div class="team-member" style="text-align: center; min-width: 150px;">
+                    <h3 style="color: #800020;">Jules Perrin</h3>
+                    <p style="color: #555;">IN</p>
+                </div>
+                <!-- Team Member 5 -->
+                <div class="team-member" style="text-align: center; min-width: 150px;">
+                    <h3 style="color: #800020;">Arun Navaranjan</h3>
+                    <p style="color: #555;">IN</p>
+                </div>
+            </div>
+        </div>
+    
+            
+            <!-- Team GitHub -->
+            <div style="text-align: center; margin-top: 40px;">
+                <a href="https://github.com/epfl-ada/ada-2024-project-data_brigada" target="_blank" style="color: #800020; text-decoration: none; font-size: 16px; display: inline-flex; align-items: center; gap: 10px;">
+                    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 24px; height: 24px;">
+                    <span>@data_brigada</span>
+                </a>
+            </div>
+        </div>
+    </section>
+    
+    
+    <!-- Team-->
 
   <footer id="main-footer">
     <div class="left-image"></div>
@@ -223,8 +299,27 @@
     <div class="right-image"></div>
   </footer>
 
+    <!-- Footer-->
+    <footer class="bg-bottom text-center py-5">
+        <div class="container px-5">
+            <div class="text-white-50 small">
+                <div id="copyright-text" class="mb-2"></div>
+                <p> Website template:</p>
+                <a id="github-link" href="https://github.com/senli1073">Github</a>
+                <span class="mx-1">&middot;</span>
+                <a id="license-link" href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
+            </div>
+            <div class="text-white-50 small">
+                <div id="copyright-text" class="mb-2"></div>
+                <p> Group Github:</p>
+                <a id="github-link" href="https://github.com/epfl-ada/ada-2024-project-data_brigada">Analysis</a>
+                <span class="mx-1">&middot;</span>
+                <a id="license-link" href="https://github.com/laetitia-wilhelm/ada-data_brigada-website">Website</a>
+            </div>
+        </div>
+    </footer>
 
-     
+   
 </body>
 
 
