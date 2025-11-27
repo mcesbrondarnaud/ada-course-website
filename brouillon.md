@@ -1,1 +1,300 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Academic Webpage" />
+    <meta name="author" content="senli1073" />
+    <title id="title"></title>
+
+    <!-- Icon -->
+    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
+
+    <!-- Bootstrap icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+
+    <!-- Google fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
+        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
+        rel="stylesheet" />
+
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
+    <link type="text/css" href="static/css/main.css" rel="stylesheet" />
+
+    <!-- Bootstrap core JS-->
+    <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
+
+    <!-- For Compatability -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    <!-- For visu of gender -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="static/js/character-gender.js"></script>
+
+    <!-- For visu of tropes by genre -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="static/js/interactive-tropes-by-genre.js"></script>
+
+    <!-- For visu of tropes by decade -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="static/js/tropes-by-decade.js"></script>
+
+    
+    <!-- Markdown -->
+    <script type="text/javascript" src="static/js/marked.min.js"></script>
+
+    <!-- For interactive genre trends -->
+    <script type="text/babel" src="static/js/interactive-genre-trends.js"></script>
+
+    <!-- Recharts -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/17.0.2/umd/react.production.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.2/umd/react-dom.production.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prop-types/15.8.1/prop-types.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/recharts/2.10.3/Recharts.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
+
+
+    <!-- Mathematics -->
+    <script>
+        // See https://docs.mathjax.org/en/latest/index.html for more details.
+        MathJax = {
+            tex: {
+                packages: {},              // extensions to use
+                inlineMath: [              // start/end delimiter pairs for in-line math
+                    ['$', '$'],
+                    ['\\(', '\\)']
+                ],
+                displayMath: [             // start/end delimiter pairs for display math
+                    ['$$', '$$'],
+                    ['\\[', '\\]']
+                ],
+                processEscapes: false,      // use \$ to produce a literal dollar sign
+                processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
+                processRefs: true,         // process \ref{...} outside of math mode
+                digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,    // pattern for recognizing numbers
+                tags: 'all',              // or 'ams' or 'all'
+                tagSide: 'right',          // side for \tag macros
+                tagIndent: '0.8em',        // amount to indent tags
+                useLabelIds: true,         // use label name rather than tag for ids
+                maxMacros: 10000,          // maximum number of macro substitutions per expression
+                maxBuffer: 5 * 1024,       // maximum size for the internal TeX string (5K)
+                // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
+                // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
+                formatError:               // function called when TeX syntax errors occur
+                    (jax, err) => jax.formatError(err)
+            }
+        };
+    </script>
+    <script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+    <!-- Core JS-->
+    <script type="text/javascript" src="static/js/scripts.js"></script>
+    <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+
+
+   <!-- External libraries -->
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/marked@4.0.12/lib/marked.min.js"></script>
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+</head>
+
+<body id="page-top">
+    <!-- Navigation-->
+    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
+        <div class="container px-5">
+            <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
+            <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                MENU
+                <i class="bi-list"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+                    <!-- HERE TO ADD THINGS ON THE MENU ON THE TOP -->
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#page-top">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#introduction">Introduction</a>
+                    </li>
+                    
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+
+    <!-- Top Section -->
+    <!-- Top section photo : https://www.wired.com/story/reddit-redesign/ -->
+    <section class="top-section" style="background-image: url('static/assets/img/hangoutsscreen_2.webp');">
+        <div class="top-section-content">
+            <div class="container-px-5-text-center">
+                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt">
+                    <!--  Your Catchy Heading -->
+                    <h1>The main question of our project ?</h1>
+                </h2>
+            </div>
+            <a href="#home" class="btn btn-custom">Let's Dive Into It </a>        </div>
+    </section>
+    <!-- Top Section -->
+    
+
+
+    <!-- Introduction -->
+    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="introduction">
+        <div class="container px-5">
+            <header>
+                <h2 id="character-subtitle"><i class="bi bi-character-adjectives-fill"></i>Introduction</h2>
+            </header>
+            <div class="main-body" id="introduction-md"></div>
+        </div>
+    </section>
+    <!-- Introduction -->
+
+
+<!-- TEAM SECTION -->
+<section id="team" style="background-color: #f7f2f2; padding: 50px 0;">
+    <div class="container">
+        <h2 style="text-align: center; color: #800020;">The ADAvengers Team</h2>
+
+        <!-- Team Members -->
+        <div class="team-container" 
+             style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 40px;">
+
+            <!-- Member 1 -->
+            <div class="team-member" style="text-align: center; min-width: 180px;">
+                <h3 style="color: #800020;">Nhat Anh Dao</h3>
+                <p style="color: #555;">SV</p>
+                <div class="contact">
+                    <a href="https://github.com/nhatanhdao" target="_blank">
+                        <img src="images/github.png" alt="GitHub" style="width:24px;">
+                    </a>
+                    <a href="mailto:nhatanh.dao@epfl.ch">
+                        <img src="images/envelope.png" alt="Email" style="width:24px;">
+                    </a>
+                </div>
+            </div>
+
+            <!-- Member 2 -->
+            <div class="team-member" style="text-align: center; min-width: 180px;">
+                <h3 style="color: #800020;">Laetitia Wilhelm</h3>
+                <p style="color: #555;">MT-RO</p>
+                <div class="contact">
+                    <a href="https://github.com/laetitiawilhelm" target="_blank">
+                        <img src="images/github.png" alt="GitHub" style="width:24px;">
+                    </a>
+                    <a href="mailto:laetitia.wilhelm@epfl.ch">
+                        <img src="images/envelope.png" alt="Email" style="width:24px;">
+                    </a>
+                </div>
+            </div>
+
+            <!-- Member 3 -->
+            <div class="team-member" style="text-align: center; min-width: 180px;">
+                <h3 style="color: #800020;">Arian Bislimi</h3>
+                <p style="color: #555;">SC-DS</p>
+                <div class="contact">
+                    <a href="https://github.com/arianbislimi" target="_blank">
+                        <img src="images/github.png" alt="GitHub" style="width:24px;">
+                    </a>
+                    <a href="mailto:arian.bislimi@epfl.ch">
+                        <img src="images/envelope.png" alt="Email" style="width:24px;">
+                    </a>
+                </div>
+            </div>
+
+            <!-- Member 4 -->
+            <div class="team-member" style="text-align: center; min-width: 180px;">
+                <h3 style="color: #800020;">Jules Perrin</h3>
+                <p style="color: #555;">IN</p>
+                <div class="contact">
+                    <a href="https://github.com/julesperrin" target="_blank">
+                        <img src="images/github.png" alt="GitHub" style="width:24px;">
+                    </a>
+                    <a href="mailto:jules.perrin@epfl.ch">
+                        <img src="images/envelope.png" alt="Email" style="width:24px;">
+                    </a>
+                </div>
+            </div>
+
+            <!-- Member 5 -->
+            <div class="team-member" style="text-align: center; min-width: 180px;">
+                <h3 style="color: #800020;">Arun Navaranjan</h3>
+                <p style="color: #555;">IN</p>
+                <div class="contact">
+                    <a href="https://github.com/arunnavaranjan" target="_blank">
+                        <img src="images/github.png" alt="GitHub" style="width:24px;">
+                    </a>
+                    <a href="mailto:arun.navaranjan@epfl.ch">
+                        <img src="images/envelope.png" alt="Email" style="width:24px;">
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Group GitHub -->
+        <div style="text-align: center; margin-top: 40px;">
+            <a href="https://github.com/epfl-ada/ada-2025-project-adavengers2025" 
+               target="_blank"
+               style="color: #800020; text-decoration: none; font-size: 16px; display: inline-flex; align-items: center; gap: 10px;">
+                <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 24px;">
+                <span>@ADAvengers2025 (Project Repository)</span>
+            </a>
+        </div>
+
+        <!-- Website -->
+        <div style="text-align: center; margin-top: 15px;">
+            <a href="https://adavengers2025.github.io" target="_blank" 
+               style="color:#800020; font-size:16px; text-decoration:none;">
+               🌐 Visit our Website
+            </a>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- FOOTER -->
+<footer class="bg-bottom text-center py-5" style="background-color:#222;">
+    <div class="container px-5">
+        
+        <!-- Website Template Attribution -->
+        <div class="text-white-50 small" style="margin-bottom: 20px;">
+            <p>Website template:</p>
+            <a href="https://github.com/senli1073" class="text-white-50" target="_blank">Github</a>
+            <span class="mx-1">&middot;</span>
+            <a href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE" 
+               class="text-white-50" target="_blank">License</a>
+        </div>
+
+        <!-- Group GitHub Links -->
+        <div class="text-white-50 small">
+            <p>Group Github:</p>
+            <a href="https://github.com/epfl-ada/ada-2024-project-data_brigada" 
+               class="text-white-50" target="_blank">Analysis</a>
+            <span class="mx-1">&middot;</span>
+            <a href="https://github.com/laetitia-wilhelm/ada-data_brigada-website" 
+               class="text-white-50" target="_blank">Website</a>
+        </div>
+
+    </div>
+</footer>
+
+
+</html>
+
