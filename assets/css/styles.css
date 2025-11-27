@@ -165,7 +165,7 @@ section {
 .top-section {
     position: relative;
     height: 60vh;
-    background-image: url('../img/hangoutsscreen_2.webp');
+    background-image: url('css/img/hangoutsscreen_2.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -174,39 +174,26 @@ section {
     justify-content: center;
 }
 
-/* Optional dark overlay for readability */
+/* Optional dark overlay (you can remove if not needed) */
 .top-section-overlay {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0,0,0,0.35); /* change opacity here */
+    background: rgba(0,0,0,0.20); /* lighter overlay now that text is black */
     z-index: 1;
 }
 
 .top-section-content {
     position: relative;
-    z-index: 2; /* appear above overlay */
-    padding-top: 22vh; /* adjust to move text/button lower */
+    z-index: 2;
+    padding-top: 28vh; /* LOWER the whole block (title + button) */
 }
 
-/* CUSTOM BUTTON ---------------------------------------------------- */
-
-.btn-custom {
-    background-color: white;
-    color: #800020;
-    padding: 12px 28px;
-    border-radius: 14px;
-    font-size: 18px;
-    font-weight: 600;
-    border: 2px solid #800020;
-    transition: 0.25s ease;
-    text-decoration: none;
-}
-
-.btn-custom:hover {
-    background-color: #800020;
-    color: white;
+/* Title styling */
+.top-title {
+    color: black !important;   /* makes the title black */
+    margin-bottom: 20px;
 }
 
