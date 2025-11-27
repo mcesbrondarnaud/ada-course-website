@@ -186,5 +186,16 @@
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<script>
+fetch("content/introduction.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("introduction-md").innerHTML = marked.parse(text);
+    });
+</script>
+
+    
 </body>
 </html>
