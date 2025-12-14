@@ -19,6 +19,9 @@ Understanding this structure helps us answer:
 ### Top 10 attacking and attacked subreddits
 Let's start by selecting data with negative sentiment in hyperlinks df, and extract attackers (sources of negative sentiment) and attacked (targets of negative sentiment)
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/26803399"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26803399/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+
+
 [Table of the top 10 attacking subreddits]
 [Table of the top 10 attacked subreddits]
 
