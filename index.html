@@ -101,10 +101,10 @@
 </section>
 
 <!-- PART 1 -->
-<section id="part1" class="bg-gradient-primary-to-secondary-light py-5">
+<section id="part1bis" class="bg-gradient-primary-to-secondary-light py-5">
     <div class="container px-5">
         <h2>Part 1</h2>
-        <div id="part1-md"></div>
+        <div id="part1bis-md"></div>
 
         <!-- Flourish Graph here -->
         <div id="flourish-graph">
@@ -281,10 +281,10 @@ fetch("contents/our_analysis.md")
     .then(text => {
         document.getElementById("our_analysis-md").innerHTML = marked.parse(text);
     });
-fetch("contents/part1.md")
+fetch("contents/part1bis.md")
     .then(response => response.text())
     .then(text => {
-        document.getElementById("part1-md").innerHTML = marked.parse(text);
+        document.getElementById("part1bis-md").innerHTML = marked.parse(text);
     });
 fetch("contents/part2.md")
     .then(response => response.text())
