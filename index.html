@@ -268,7 +268,41 @@ fetch("contents/data_presentation.md")
     .then(text => {
         document.getElementById("data_presentation-md").innerHTML = marked.parse(text);
     });
-
+fetch("contents/story.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("story-md").innerHTML = marked.parse(text);
+    });
+fetch("contents/our_analysis.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("our_analysis-md").innerHTML = marked.parse(text);
+    });
+fetch("contents/part1.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("part1-md").innerHTML = marked.parse(text);
+    });
+fetch("contents/part2.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("part2-md").innerHTML = marked.parse(text);
+    });
+fetch("contents/part3.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("part3-md").innerHTML = marked.parse(text);
+    });
+fetch("contents/conclusion.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("conclusion-md").innerHTML = marked.parse(text);
+    });
+fetch("contents/reference.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("reference-md").innerHTML = marked.parse(text);
+    });
 </script>
 
     
