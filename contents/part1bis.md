@@ -50,9 +50,10 @@ Additionally, we identified the top subreddits responsible for the highest amoun
 - [more detailed analysis of top 5 negative and their evolution monthly => graph]
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/26553662">
-  <script src="https://public.flourish.studio/resources/embed.js"></script>
-  <noscript>
-    <img src="https://public.flourish.studio/visualisation/26553662/thumbnail" width="100%" alt="bar-chart-race visualization" />
-  </noscript>
+    <script src="https://public.flourish.studio/resources/embed.js"></script>
+    <noscript>
+        <img src="https://public.flourish.studio/visualisation/26553662/thumbnail" width="100%" alt="bar-chart-race visualization" />
+    </noscript>
 </div>
+ ---
 
