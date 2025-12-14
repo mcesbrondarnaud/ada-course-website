@@ -4,8 +4,14 @@ To analyze the behavior of negativity across Reddit, we first needed to group su
 The primary goal of this step was to explore how subreddits cluster into groups and whether certain clusters (e.g., political subreddits) are more likely to generate negative interactions.
 
 ## Clustering subreddits
-- UMAP Scatterplot => Show how subreddits cluster based on embeddings (visualized on UMAP).
-- Cluster Sizes => Show a bubble chart or bar plot with the size of each cluster (e.g., number of subreddits in each thematic group).
+In order to reduce the high-dimensional embedding vectors of subreddits into two dimensions we used UMAP (Uniform Manifold Approximation and Projection). This allowed us to visualize the semantic relationships between them.
+
+[Cluster's map]
+> The UMAP scatterplot shows that subreddits naturally form clusters based on their thematic focus. [Give example ?]
+
+[Bubble chart]
+> We can also visualize the size of each thematic group. This allows us to determine the size of the largest clusters for example.
+
 
 ## High-level cluster characterization 
 - [Plot distribution of high level clusters]
