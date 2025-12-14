@@ -44,6 +44,7 @@ By examining monthly trends, we can identify which subreddits contribute the mos
 We analyzed the monthly negativity ratios for all high-level clusters, using a time series to capture fluctuations over the course of several months. 
 
 - [Monthly negativity / ratio per cluster => Plot graph of monthly negativity ratios for all high level clusters from monthly_matrix_all]
+<iframe src='https://flo.uri.sh/visualisation/26805661/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 Additionally, we identified the top subreddits responsible for the highest amount of negativity and explored how their negative behavior evolves monthly.
 - [Top subreddits => who focuses negativity ? table : Subreddits responsible for 50% of negative outlinks]
