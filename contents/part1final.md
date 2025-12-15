@@ -114,8 +114,8 @@ Together, these results reinforce a central message of our project:
           <p class="card-text mb-0">
             Together, these results reinforce a central message of our project:
             <ul class="card-text mb-3">
-            <li>Online negativity is not diffuse or random — it is concentrated, directional, and driven by a small set of influential communities.</li>
-          </ul>
+              <li>Online negativity is not diffuse or random — it is concentrated, directional, and driven by a small set of influential communities.</li>
+            </ul>
 
           </p>
         </div>
