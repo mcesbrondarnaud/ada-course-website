@@ -183,9 +183,11 @@ section {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0,0,0,0.20); /* lighter overlay now that text is black */
+  background: rgba(128, 0, 32, 0.35);  /* same as button, semi-transparent */
     z-index: 1;
 }
+
+
 
 .top-section-content {
     position: relative;
