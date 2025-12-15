@@ -42,7 +42,7 @@ This figure shows how negativity circulates between clusters.
 
 <div class="col-12 col-lg-5">
 <div class="card p-4 shadow-sm h-100">
-<h4>Main insights</h4>
+<h4>Several key patterns emerge:</h4>
 <ul>
 <li>Negativity is not confined within clusters: inter-cluster hostility is substantial.</li>
 <li>Political and ideologically oriented clusters tend to export negativity broadly.</li>
