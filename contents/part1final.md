@@ -18,16 +18,6 @@ To analyze the flow of negativity, we used a chord diagram to visualize the conn
 - Each chord represents negative links sent from one cluster to another,
 - The thickness of the chord encodes the volume of negativity exchanged.
 
-<iframe src='https://flo.uri.sh/visualisation/26513009/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
-Several key patterns emerge:
-- Negativity is not confined within clusters: inter-cluster hostility is substantial.
-- Political and ideologically oriented clusters tend to export negativity broadly, targeting a wide range of other thematic communities.
-- Some clusters are repeatedly targeted by multiple others, reinforcing their role as accumulators of hostility.
-This confirms that negativity behaves as a networked phenomenon, flowing across thematic boundaries rather than remaining local.
-
-This figure shows how negativity circulates between clusters.
-
 <section class="container my-5">
 <div class="row g-4 align-items-start">
 
