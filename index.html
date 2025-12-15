@@ -66,6 +66,7 @@
   <!-- PAGE LAYOUT: SIDEBAR + MAIN CONTENT -->
   <div class="container px-5 my-5">
     <div class="row">
+
       <!-- Sidebar -->
       <aside class="col-lg-2 d-none d-lg-block">
         <nav id="sideToc" class="position-sticky" style="top: 90px;">
@@ -83,14 +84,10 @@
             <li><a class="nav-link" href="#team">Team</a></li>
           </ul>
         </nav>
-
       </aside>
-      
+
+      <!-- Main (WIDER) -->
       <main class="col-lg-10">
-
-
-      <!-- Main -->
-      <main class="col-lg-9">
 
         <!-- INTRODUCTION -->
         <section id="introduction" class="section py-5">
@@ -236,48 +233,37 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
   <script>
-    // Load markdown sections
     fetch("contents/introduction.md").then(r => r.text()).then(t => {
       document.getElementById("introduction-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/data_presentation.md").then(r => r.text()).then(t => {
       document.getElementById("data_presentation-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/story.md").then(r => r.text()).then(t => {
       document.getElementById("story-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/our_analysis.md").then(r => r.text()).then(t => {
       document.getElementById("our_analysis-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/part1bis.md").then(r => r.text()).then(t => {
       document.getElementById("part1bis-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/part2.md").then(r => r.text()).then(t => {
       document.getElementById("part2-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/part3.md").then(r => r.text()).then(t => {
       document.getElementById("part3-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/part4.md").then(r => r.text()).then(t => {
       document.getElementById("part4-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/conclusion.md").then(r => r.text()).then(t => {
       document.getElementById("conclusion-md").innerHTML = marked.parse(t);
     });
-
     fetch("contents/reference.md").then(r => r.text()).then(t => {
       document.getElementById("reference-md").innerHTML = marked.parse(t);
     });
 
-    // Scrollspy init (more reliable than only data attributes)
     new bootstrap.ScrollSpy(document.body, {
       target: '#sideToc',
       offset: 120
