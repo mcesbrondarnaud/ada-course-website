@@ -67,7 +67,7 @@ method : Stat test across peaks to see if neighbors have significantly higher in
 
 <section class="container my-4">
   <div class="row justify-content-center">
-    <div class="col-12 col-md-8 col-lg-6">
+    <div class="col-12 col-md-10 col-lg-10">
       <div class="card shadow-sm">
         <div class="card-body">
           <h4 class="card-title mb-2">Overall conclusions on peaks analysis</h4>
