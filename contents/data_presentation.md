@@ -1,10 +1,10 @@
-## Explain the dataset 
+Our core data consists of two complementary datasets of inter-subreddit hyperlinks, representing references made by users from one subreddit to another:
+- Title hyperlinks dataset: links appearing in post titles
+- Body hyperlinks dataset: links embedded in the body of posts
 
-We use two complementary datasets of Reddit hyperlinks, each representing inter-subreddit references made by users:
-- Title hyperlinks dataset: references contained in post titles.  
-- Body hyperlinks dataset: references contained in post bodies.
+These two sources capture different interaction mechanisms: titles often reflect explicit framing or confrontation, while body links tend to arise from more contextual or argumentative references.
 
-Each sample contains the following parameters:
+Each hyperlink record contains the following information:
 - `SOURCE_SUBREDDIT` : Subreddit where the post originates
 - `TARGET_SUBREDDIT` : Subreddit referenced by the link
 - `POST_ID` : Unique identifier of the post
@@ -12,20 +12,41 @@ Each sample contains the following parameters:
 - `LINK_SENTIMENT` : Sentiment label (-1 = negative, 1 = neutral or positive)
 - `POST_PROPERTIES` : Vector of text-derived numerical features
 
-Additionally, we use a subreddit embeddings dataset containing:
-- `name`: subreddit name
-- 300-dimensional vector embedding representing its semantic position in topic space.
-These embeddings allow us to group subreddits into coherent clusters (politics, gaming, sports) and measure topical similarity.
+This structure enables us to analyze who interacts with whom, when, and with what sentiment, forming the backbone of our network analysis.
 
-Besides, we include the Global Database of Events (GDELT), aggregated daily by world region (Europe, Asia, Africa, North America, South America, Oceania) between 2014 and 2017. It summarizes global activity, media attention, and event tone through indicators such as total events, mentions, average Goldstein score, and protest counts.
-This dataset provides a macro-level context to compare Reddit’s temporal negativity dynamics with external global events, enabling exploratory correlation analyses.
+## Subreddit Embeddings and Semantic Structure
+To move beyond individual interactions and capture thematic similarity between communities, we also use a dataset of subreddit embeddings.
+Each subreddit is represented by a 300-dimensional vector encoding its semantic position in topic space.
 
-PCA tSME
+These embeddings allow us to:
+- group subreddits into coherent thematic clusters (e.g. politics, gaming, sports),
+- measure topical proximity between communities,
+- and study whether negativity follows semantic boundaries.
+To visualize this high-dimensional structure, we apply dimensionality reduction techniques such as PCA and t-SNE, revealing clear cluster separation in a low-dimensional space.
+
 <iframe src='https://flo.uri.sh/visualisation/26634242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-Differents clusters with their size : 
+This projection already suggests that Reddit communities are not randomly distributed, but organized around well-defined thematic regions.
+
+## Cluster Sizes and Representation
+Once clusters are identified, we examine their relative sizes, measured by the number of subreddits they contain. This step is important to distinguish between large, dominant thematic areas and more niche communities.
+
 <iframe src='https://flo.uri.sh/visualisation/26558499/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
+This distribution highlights strong imbalances across themes, which later proves crucial when interpreting negativity levels and flows: large clusters naturally generate more interactions, but not necessarily more hostility.
 
+
+## External Context: GDELT Dataset
+
+Finally, to place Reddit dynamics within a broader real-world context, we incorporate data from the Global Database of Events, Language, and Tone (GDELT).
+This dataset is aggregated daily by world region (Europe, Asia, Africa, North America, South America, Oceania) between 2014 and 2017.
+
+It summarizes global media activity through indicators such as:
+- total number of events,
+- number of media mentions,
+- average event tone,
+- protest and conflict-related counts.
+
+By combining GDELT with Reddit time series, we can explore whether spikes of online negativity coincide with periods of heightened real-world tension or media attention.
 
 
