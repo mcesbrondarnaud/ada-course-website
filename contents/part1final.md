@@ -12,6 +12,43 @@ This visualization highlights an important asymmetry:
 - Others behave as net sinks, receiving negativity from many different sources while contributing little themselves.
 This distinction already suggests that negativity does not circulate randomly. Instead, it follows structured directional patterns, with specific communities driving hostile interactions across the platform.
 
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src="https://flo.uri.sh/visualisation/26649034/embed"
+        title="Incoming vs outgoing negativity by cluster"
+        class="flourish-embed-iframe"
+        frameborder="0"
+        scrolling="no"
+        style="width:100%;height:600px;"
+        sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+</iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>Asymmetry in negativity flows</h4>
+
+<ul>
+<li>Some clusters clearly act as <strong>net exporters of negativity</strong>, generating far more negative references than they receive.</li>
+<li>Other clusters behave as <strong>net sinks</strong>, receiving negativity from many different sources while contributing little themselves.</li>
+</ul>
+
+<p>
+This asymmetry indicates that negativity does not circulate randomly across Reddit.
+Instead, it follows <strong>structured, directional patterns</strong>, driven by a limited number
+of communities that play a disproportionate role in propagating hostile interactions.
+</p>
+</div>
+</div>
+
+</div>
+</section>
+
+
 ## Who sends negativity to whom? Inter-cluster flows
 To analyze the flow of negativity, we used a chord diagram to visualize the connections between clusters, where:
 - Each node represents a cluster,
@@ -64,6 +101,43 @@ This dynamic view highlights a striking concentration effect:
 - A very small number of subreddits consistently dominate the production of negative links.
 - While their relative ranking may change over time, the same communities repeatedly reappear at the top.
 This already hints at temporal persistence, which we will explore more formally in the next part of the analysis.
+
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src="https://public.flourish.studio/visualisation/26553662/embed"
+        title="Top contributors to negative links over time"
+        frameborder="0"
+        allowfullscreen
+        style="width:100%;height:600px;">
+</iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>Concentration and temporal persistence</h4>
+
+<ul>
+<li>A very small number of subreddits consistently dominate the production of negative links.</li>
+<li>Despite fluctuations in ranking, the same communities repeatedly reappear at the top.</li>
+</ul>
+
+<p>
+This pattern reveals a strong <strong>concentration effect</strong> and suggests
+<strong>temporal persistence</strong> in the sources of negativity.
+Rather than rotating randomly across communities, negativity is repeatedly driven
+by a limited set of influential actors — a phenomenon we examine more formally
+in the next part of the analysis.
+</p>
+</div>
+</div>
+
+</div>
+</section>
+
 
 ## Concentration of Negativity: Ratios vs. Counts
 [graph notebook marzio]
