@@ -124,6 +124,14 @@
     </div>
 </section>
 
+<!-- PART 4 -->
+<section id="part4" class="section py-5">
+    <div class="container px-5">
+        <h2>Part 4</h2>
+        <div id="part4-md"></div>
+    </div>
+</section>
+
 <!-- CONCLUSION -->
 <section id="conclusion" class="section py-5">
     <div class="container px-5">
@@ -289,6 +297,11 @@ fetch("contents/part3.md")
     .then(response => response.text())
     .then(text => {
         document.getElementById("part3-md").innerHTML = marked.parse(text);
+    });
+fetch("contents/part4.md")
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById("part4-md").innerHTML = marked.parse(text);
     });
 fetch("contents/conclusion.md")
     .then(response => response.text())
