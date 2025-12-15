@@ -5,13 +5,6 @@ This section investigates the flow of negativity between different clusters, aim
 ## Incoming vs. outgoing negativity: Who produces, who absorbs?
 We first compare, for each high-level cluster, the amount of negative links sent versus negative links received.
 
-<iframe src='https://flo.uri.sh/visualisation/26649034/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
-This visualization highlights an important asymmetry:
-- Some clusters clearly act as net exporters of negativity: they generate far more negative references than they receive.
-- Others behave as net sinks, receiving negativity from many different sources while contributing little themselves.
-This distinction already suggests that negativity does not circulate randomly. Instead, it follows structured directional patterns, with specific communities driving hostile interactions across the platform.
-
 <section class="container my-5">
 <div class="row g-4 align-items-start">
 
@@ -94,13 +87,6 @@ boundaries rather than remaining local.
 
 ## Top contributors: a small number of actors drive most negativity
 We now zoom in on the most influential subreddits by tracking the evolution of the top 5 contributors to negative outlinks over time.
-
-<iframe width="60%" height="600" src="https://public.flourish.studio/visualisation/26553662/embed" frameborder="0" allowfullscreen></iframe>
-
-This dynamic view highlights a striking concentration effect:
-- A very small number of subreddits consistently dominate the production of negative links.
-- While their relative ranking may change over time, the same communities repeatedly reappear at the top.
-This already hints at temporal persistence, which we will explore more formally in the next part of the analysis.
 
 <section class="container my-5">
 <div class="row g-4 align-items-start">
