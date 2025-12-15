@@ -43,9 +43,9 @@ method : Stat test across peaks to see if neighbors have significantly higher in
         <div class="card-body">
           <h4 class="card-title mb-2">Overall conclusions on peaks analysis</h4>
           <p class="card-text mb-0">
-            - neighbors + sources have higher negativity during peaks wrt to othershat do not interact with sources
-            - tagged_in neighbors have significantly higher increase in negativity during peaks wrt to others
-            - targeting neighbors are mostly inactive during peaks and mask the effect if included
+            * neighbors + sources have higher negativity during peaks wrt to othershat do not interact with sources
+            * tagged_in neighbors have significantly higher increase in negativity during peaks wrt to others
+            * targeting neighbors are mostly inactive during peaks and mask the effect if included
           </p>
         </div>
       </div>
