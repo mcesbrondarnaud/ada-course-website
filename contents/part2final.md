@@ -1,6 +1,12 @@
 # Part 2 - dynamics 
 
-## 3.a.2 Let's see if we can identity statistically significant peaks
+## identifying statistically significant peaks (3.a.2)
+
+To understand how negativity spreads across time, we first track the overall evolution of negative links across Reddit. This allows us to visualize waves of negativity — periods where hostility increases significantly. We then break this evolution into weekly bins to better understand the temporal spread of negativity. 
+After identifying the overall evolution of negativity, we now focus on identifying significant peaks of hostility. These peaks indicate when negative interactions reached their highest levels, often tied to specific events or discussions on Reddit.
+
+We examined the negativity ratio (the proportion of negative links relative to total links) over time and identified the most significant peaks in the data. By identifying these peaks, we can focus on the periods when negativity was at its highest.
+
 [notebook]
 
 
