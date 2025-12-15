@@ -236,9 +236,10 @@ section {
 .section { background: #fff; }  /* default white */
 
 #data_presentation,
-#part1bis,
-#part3,
-#conclusion {
+#part1final,
+#part3final,
+#part5final,
+#reference {
   background: #f7f2f2;
 }
 
