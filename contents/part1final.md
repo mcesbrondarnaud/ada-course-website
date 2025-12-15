@@ -23,6 +23,7 @@ To analyze the flow of negativity, we used a chord diagram to visualize the conn
 ## Ratio
 50 top font 50% de la negativity 
 [graph notebook marzio]
+=> lien avec partie 2 : dynamics
 
 
 
