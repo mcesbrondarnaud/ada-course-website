@@ -203,6 +203,11 @@ fetch("contents/reference.md")
     .then(text => {
         document.getElementById("reference-md").innerHTML = marked.parse(text);
     });
+fetch("contents/team.md")
+  .then(r => r.text())
+  .then(text => {
+    document.getElementById("team-md").innerHTML = marked.parse(text);
+  });
 </script>
 
     
