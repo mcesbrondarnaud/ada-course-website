@@ -71,11 +71,13 @@ method : Stat test across peaks to see if neighbors have significantly higher in
       <div class="card shadow-sm">
         <div class="card-body">
           <h4 class="card-title mb-2">Overall conclusions on peaks analysis</h4>
+          <ul class="card-text mb-3">
+            <li>Negativity peaks represent critical moments in Reddit’s interaction dynamics.</li>
+            <li>Peaks are source-driven, not random.</li>
+            <li>Direct neighbors of negative sources are significantly more affected than other communities.</li>
+            <li>The observed patterns provide strong evidence of network-based contagion.</li>
+          </ul>
           <p class="card-text mb-0">
-            - Negativity peaks represent critical moments in Reddit’s interaction dynamics.
-            - Peaks are source-driven, not random.
-            - Direct neighbors of negative sources are significantly more affected than other communities.
-            - The observed patterns provide strong evidence of network-based contagion.
             These insights naturally connect to Part 3, where we examine how such dynamics interact with real-world events and whether future negativity waves can be predicted.
           </p>
         </div>
