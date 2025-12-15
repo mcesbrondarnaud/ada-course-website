@@ -69,7 +69,7 @@ To analyze the flow of negativity, we used a chord diagram to visualize the conn
 
 <div class="col-12 col-lg-5">
 <div class="card p-4 shadow-sm h-100">
-<h4>Several key patterns emerge:</h4>
+<h4>Inter-cluster negativity patterns</h4>
 <ul>
 <li>Negativity is not confined within clusters: inter-cluster hostility is substantial.</li>
 <li>Political and ideologically oriented clusters tend to export negativity broadly.</li>
