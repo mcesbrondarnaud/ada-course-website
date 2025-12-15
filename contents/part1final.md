@@ -154,41 +154,6 @@ This finding directly connects to Part 2 (Dynamics), where we investigate whethe
 
 
 
-## Key Takeaways
-- Negativity flows across Reddit in a highly structured and directional way.
-- Certain clusters act as sources, others as sinks, and some as gateways that redirect hostility.
-- Inter-cluster hostility is substantial, showing that negativity easily crosses thematic boundaries.
-- A small fraction of subreddits is responsible for a disproportionate share of negative interactions.
-
-Together, these results reinforce a central message of our project:
-> Online negativity is not diffuse or random — it is concentrated, directional, and driven by a small set of influential communities.
-
-
-
-<section class="container my-4">
-  <div class="row justify-content-center">
-    <div class="col-12 col-md-10 col-lg-10">
-      <div class="card shadow-sm">
-        <div class="card-body">
-          <h4 class="card-title mb-2">Overall conclusions on negativity</h4>
-          <ul class="card-text mb-3">
-            <li>Negativity flows across Reddit in a highly structured and directional way.</li>
-            <li>Certain clusters act as sources, others as sinks, and some as gateways that redirect hostility.</li>
-            <li>Inter-cluster hostility is substantial, showing that negativity easily crosses thematic boundaries.</li>
-            <li>A small fraction of subreddits is responsible for a disproportionate share of negative interactions.</li>
-          </ul>
-          <p class="card-text mb-0">
-            Together, these results reinforce a central message of our project:
-            <ul class="card-text mb-3">
-              <li>Online negativity is not diffuse or random — it is concentrated, directional, and driven by a small set of influential communities.</li>
-            </ul>
-
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
 
 <div style="margin:2rem 0;"></div>
