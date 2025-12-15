@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>ADAvengers</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ADAvengers</title>
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
 
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;500;600;700&display=swap" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;500;600;700&display=swap" rel="stylesheet">
 
-    <!-- Core CSS -->
-    <link href="assets/css/styles.css" rel="stylesheet" />
-    <!-- <link href="static/css/main.css" rel="stylesheet" /> -->
+  <!-- Core CSS -->
+  <link href="assets/css/styles.css" rel="stylesheet" />
 </head>
 
 <body id="page-top"
@@ -25,329 +24,261 @@
       data-bs-offset="120"
       tabindex="0">
 
-<!-- NAVIGATION -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
-<!-- <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav"> -->
+  <!-- NAVIGATION -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
     <div class="container px-5">
-        <a class="navbar-brand fw-bold" href="#page-top">ADAvengers</a>
+      <a class="navbar-brand fw-bold" href="#page-top">ADAvengers</a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                data-bs-target="#navbarResponsive">
-            MENU <i class="bi-list"></i>
-        </button>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive">
+        MENU <i class="bi-list"></i>
+      </button>
 
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#page-top">Home</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#introduction">Introduction</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#data_presentation">Data Presentation</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#story">The Story</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#our_analysis">Our Analysis</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#conclusion">Conclusion</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#reference">Reference</a></li>
-                <li class="nav-item"><a class="nav-link me-lg-3" href="#team">Team</a></li>
-
-            </ul>
-        </div>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#page-top">Home</a></li>
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#introduction">Introduction</a></li>
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#data_presentation">Data Presentation</a></li>
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#story">The Story</a></li>
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#our_analysis">Our Analysis</a></li>
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#conclusion">Conclusion</a></li>
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#reference">Reference</a></li>
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#team">Team</a></li>
+        </ul>
+      </div>
     </div>
-</nav>
+  </nav>
 
-
-<!-- TOP SECTION -->
-<section class="top-section">
+  <!-- TOP SECTION -->
+  <section class="top-section">
     <div class="top-section-overlay"></div>
 
     <div class="top-section-content text-center">
+      <h1 class="display-4 top-title">
+        How does negativity emerge, spread, and evolve across interconnected communities?
+      </h1>
 
-        <h1 class="display-4 top-title">How does negativity emerge, spread, and evolve across interconnected communities?</h1>
-
-        <!-- Rectangle behind the button -->
-        <div class="btn-box">
-            <a href="#introduction" class="btn-custom">Let's Dive Into It</a>
-        </div>
-
+      <div class="btn-box">
+        <a href="#introduction" class="btn-custom">Let's Dive Into It</a>
+      </div>
     </div>
-</section>
+  </section>
 
+  <!-- PAGE LAYOUT: SIDEBAR + MAIN CONTENT -->
+  <div class="container px-5 my-5">
+    <div class="row">
+      <!-- Sidebar -->
+      <aside class="col-lg-3 d-none d-lg-block">
+        <nav id="sideToc" class="position-sticky" style="top: 90px;">
+          <div class="list-group">
+            <a class="list-group-item list-group-item-action" href="#introduction">Introduction</a>
+            <a class="list-group-item list-group-item-action" href="#data_presentation">Data Presentation</a>
+            <a class="list-group-item list-group-item-action" href="#story">The Story</a>
+            <a class="list-group-item list-group-item-action" href="#our_analysis">Our Analysis</a>
+            <a class="list-group-item list-group-item-action" href="#part1bis">Part 1</a>
+            <a class="list-group-item list-group-item-action" href="#part2">Part 2</a>
+            <a class="list-group-item list-group-item-action" href="#part3">Part 3</a>
+            <a class="list-group-item list-group-item-action" href="#part4">Part 4</a>
+            <a class="list-group-item list-group-item-action" href="#conclusion">Conclusion</a>
+            <a class="list-group-item list-group-item-action" href="#reference">Reference</a>
+            <a class="list-group-item list-group-item-action" href="#team">Team</a>
+          </div>
+        </nav>
+      </aside>
 
+      <!-- Main -->
+      <main class="col-lg-9">
 
-<!-- INTRODUCTION -->
-<section id="introduction" class="section py-5">
-    <div class="container px-5">
-        <h2>Introduction</h2>
-        <div id="introduction-md"></div>
-    </div>
-</section>
+        <!-- INTRODUCTION -->
+        <section id="introduction" class="section py-5">
+          <h2>Introduction</h2>
+          <div id="introduction-md"></div>
+        </section>
 
+        <!-- DATA PRESENTATION -->
+        <section id="data_presentation" class="section py-5">
+          <h2>Data Presentation</h2>
+          <div id="data_presentation-md"></div>
+        </section>
 
-<!-- DATA PRESENTATION -->
-<section id="data_presentation" class="section py-5">
-    <div class="container px-5">
-        <h2>Data Presentation</h2>
-        <div id="data_presentation-md"></div>
-    </div>
-</section>
+        <!-- THE STORY -->
+        <section id="story" class="section py-5">
+          <h2>The Story</h2>
+          <div id="story-md"></div>
+        </section>
 
-<!-- THE STORY -->
-<section id="story" class="section py-5">
-    <div class="container px-5">
-        <h2>The Story</h2>
-        <div id="story-md"></div>
-    </div>
-</section>
+        <!-- OUR ANALYSIS -->
+        <section id="our_analysis" class="section py-5">
+          <h2>Our Analysis</h2>
+          <div id="our_analysis-md"></div>
+        </section>
 
-<!-- OUR ANALYSIS -->
-<section id="our_analysis" class="section py-5">
-    <div class="container px-5">
-        <h2>Our Analysis</h2>
-        <div id="our_analysis-md"></div>
-    </div>
-</section>
+        <!-- PART 1 -->
+        <section id="part1bis" class="section py-5">
+          <h2>Part 1</h2>
+          <div id="part1bis-md"></div>
+        </section>
 
-<!-- PART 1 -->
-<section id="part1bis" class="section py-5">
-    <div class="container px-5">
-        <h2>Part 1</h2>
-        <div id="part1bis-md"></div>
-    </div>
-</section>
+        <!-- PART 2 -->
+        <section id="part2" class="section py-5">
+          <h2>Part 2</h2>
+          <div id="part2-md"></div>
+        </section>
 
-<!-- PART 2 -->
-<section id="part2" class="section py-5">
-    <div class="container px-5">
-        <h2>Part 2</h2>
-        <div id="part2-md"></div>
-    </div>
-</section>
+        <!-- PART 3 -->
+        <section id="part3" class="section py-5">
+          <h2>Part 3</h2>
+          <div id="part3-md"></div>
+        </section>
 
-<!-- PART 3 -->
-<section id="part3" class="section py-5">
-    <div class="container px-5">
-        <h2>Part 3</h2>
-        <div id="part3-md"></div>
-    </div>
-</section>
+        <!-- PART 4 -->
+        <section id="part4" class="section py-5">
+          <h2>Part 4</h2>
+          <div id="part4-md"></div>
+        </section>
 
-<!-- PART 4 -->
-<section id="part4" class="section py-5">
-    <div class="container px-5">
-        <h2>Part 4</h2>
-        <div id="part4-md"></div>
-    </div>
-</section>
+        <!-- CONCLUSION -->
+        <section id="conclusion" class="section py-5">
+          <h2>Conclusion</h2>
+          <div id="conclusion-md"></div>
+        </section>
 
-<!-- CONCLUSION -->
-<section id="conclusion" class="section py-5">
-    <div class="container px-5">
-        <h2>Conclusion</h2>
-        <div id="conclusion-md"></div>
-    </div>
-</section>
+        <!-- REFERENCE -->
+        <section id="reference" class="section py-5">
+          <h2>Reference</h2>
+          <div id="reference-md"></div>
+        </section>
 
+        <!-- TEAM + FOOTER SECTION -->
+        <section id="team" style="background-color:#f7f2f2; padding:60px 0 40px 0;">
+          <div class="container">
 
-<!-- REFERENCE -->
-<section id="reference" class="section py-5">
-    <div class="container px-5">
-        <h2>Reference</h2>
-        <div id="reference-md"></div>
-    </div>
-</section>
+            <h2 class="text-center mb-5" style="color:#800020;">The ADAvengers Team</h2>
 
+            <div class="d-flex justify-content-center flex-wrap gap-4">
 
-<!-- TEAM + FOOTER SECTION -->
-<section id="team" style="background-color:#f7f2f2; padding:60px 0 40px 0;">
-    <div class="container">
-
-        <!-- Title -->
-        <h2 class="text-center mb-5" style="color:#800020;">The ADAvengers Team</h2>
-
-        <!-- Team Members -->
-        <div class="d-flex justify-content-center flex-wrap gap-4">
-
-            <!-- Manon -->
-            <div class="team-member text-center">
+              <div class="team-member text-center">
                 <h4 style="color:#800020;">Manon Cesbron Darnaud</h4>
                 <p>IC-DS</p>
-                <a href="https://github.com/mcesbrondarnaud" target="_blank">
-                    <img src="images/github.png" width="24">
-                </a>
-                <a href="mailto:manon.cesbrondarnaud@epfl.ch">
-                    <img src="images/envelope.png" width="24">
-                </a>
-            </div>
+                <a href="https://github.com/mcesbrondarnaud" target="_blank"><img src="images/github.png" width="24"></a>
+                <a href="mailto:manon.cesbrondarnaud@epfl.ch"><img src="images/envelope.png" width="24"></a>
+              </div>
 
-            <!-- Simon -->
-            <div class="team-member text-center">
+              <div class="team-member text-center">
                 <h4 style="color:#800020;">Simon Pierre</h4>
                 <p>MA-CSE</p>
-                <a href="https://github.com/Kikidu59" target="_blank">
-                    <img src="images/github.png" width="24">
-                </a>
-                <a href="mailto:simon.pierre@epfl.ch">
-                    <img src="images/envelope.png" width="24">
-                </a>
-            </div>
+                <a href="https://github.com/Kikidu59" target="_blank"><img src="images/github.png" width="24"></a>
+                <a href="mailto:simon.pierre@epfl.ch"><img src="images/envelope.png" width="24"></a>
+              </div>
 
-            <!-- Sacha -->
-            <div class="team-member text-center">
+              <div class="team-member text-center">
                 <h4 style="color:#800020;">Sacha Frankhauser</h4>
                 <p>SB-PH</p>
-                <a href="https://github.com/hakure-code" target="_blank">
-                    <img src="images/github.png" width="24">
-                </a>
-                <a href="mailto:sacha.frankhauser@epfl.ch">
-                    <img src="images/envelope.png" width="24">
-                </a>
-            </div>
+                <a href="https://github.com/hakure-code" target="_blank"><img src="images/github.png" width="24"></a>
+                <a href="mailto:sacha.frankhauser@epfl.ch"><img src="images/envelope.png" width="24"></a>
+              </div>
 
-            <!-- Antoine -->
-            <div class="team-member text-center">
+              <div class="team-member text-center">
                 <h4 style="color:#800020;">Antoine Auberger</h4>
                 <p>MA-CSE</p>
-                <a href="https://github.com/Antoineprogg" target="_blank">
-                    <img src="images/github.png" width="24">
-                </a>
-                <a href="mailto:antoine.auberger@epfl.ch">
-                    <img src="images/envelope.png" width="24">
-                </a>
-            </div>
+                <a href="https://github.com/Antoineprogg" target="_blank"><img src="images/github.png" width="24"></a>
+                <a href="mailto:antoine.auberger@epfl.ch"><img src="images/envelope.png" width="24"></a>
+              </div>
 
-            <!-- Marzio -->
-            <div class="team-member text-center">
+              <div class="team-member text-center">
                 <h4 style="color:#800020;">Marzio Formica</h4>
                 <p>SB-PH</p>
-                <a href="https://github.com/marziof" target="_blank">
-                    <img src="images/github.png" width="24">
-                </a>
-                <a href="mailto:marzio.formica@epfl.ch">
-                    <img src="images/envelope.png" width="24">
-                </a>
+                <a href="https://github.com/marziof" target="_blank"><img src="images/github.png" width="24"></a>
+                <a href="mailto:marzio.formica@epfl.ch"><img src="images/envelope.png" width="24"></a>
+              </div>
+
             </div>
 
-        </div>
-
-        <!-- Group Repo -->
-        <div class="text-center mt-4">
-            <a href="https://github.com/epfl-ada/ada-2025-project-adavengers2025" target="_blank"
-               style="color:#800020; text-decoration:none;">
+            <div class="text-center mt-4">
+              <a href="https://github.com/epfl-ada/ada-2025-project-adavengers2025" target="_blank"
+                 style="color:#800020; text-decoration:none;">
                 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24">
                 <strong>@ADAvengers2025 Project Repo</strong>
-            </a>
-        </div>
+              </a>
+            </div>
 
-        <!-- Website -->
-        <div class="text-center mt-2 mb-5">
-            <a href="https://mcesbrondarnaud.github.io/ada-course-website/" target="_blank"
-               style="color:#800020; text-decoration:none;">
-               🌐 Visit our Website
-            </a>
-        </div>
+            <div class="text-center mt-2 mb-5">
+              <a href="https://mcesbrondarnaud.github.io/ada-course-website/" target="_blank"
+                 style="color:#800020; text-decoration:none;">
+                🌐 Visit our Website
+              </a>
+            </div>
 
-        <!-- FOOTER INSIDE TEAM BLOCK -->
-        <div class="text-center py-4" style="background:#222; border-radius:10px; color:white;">
-            
-            <div class="small text-white-50 mb-3">
+            <div class="text-center py-4" style="background:#222; border-radius:10px; color:white;">
+              <div class="small text-white-50 mb-3">
                 <p class="mb-1">Website template:</p>
                 <a href="https://github.com/epfl-ada/ada-template-website" class="text-white-50" target="_blank">Github</a>
                 &middot;
-                <a href="https://github.com/epfl-ada/ada-template-website/blob/master/LICENSE" 
+                <a href="https://github.com/epfl-ada/ada-template-website/blob/master/LICENSE"
                    class="text-white-50" target="_blank">License</a>
+              </div>
             </div>
 
-        </div>
+          </div>
+        </section>
 
+      </main>
     </div>
-</section>
-
-
-
-<!-- Bootstrap JS -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
-<script>
-
-<div class="container">
-  <div class="row">
-    <aside class="col-lg-3 d-none d-lg-block">
-      <nav id="sideToc" class="position-sticky" style="top: 90px;">
-        <div class="list-group">
-          <a class="list-group-item list-group-item-action" href="#intro">Introduction</a>
-          <a class="list-group-item list-group-item-action" href="#methods">Methods</a>
-          <a class="list-group-item list-group-item-action" href="#results">Results</a>
-        </div>
-      </nav>
-    </aside>
-
-    <main class="col-lg-9">
-      <!-- your sections (#intro, #methods, ...) live here -->
-    </main>
   </div>
-</div>
-
-fetch("contents/introduction.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("introduction-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/data_presentation.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("data_presentation-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/story.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("story-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/our_analysis.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("our_analysis-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/part1bis.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("part1bis-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/part2.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("part2-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/part3.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("part3-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/part4.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("part4-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/conclusion.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("conclusion-md").innerHTML = marked.parse(text);
-    });
-fetch("contents/reference.md")
-    .then(response => response.text())
-    .then(text => {
-        document.getElementById("reference-md").innerHTML = marked.parse(text);
-    });
-</script>
 
   <!-- Bootstrap JS (bundle) -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Scrollspy init -->
+  <!-- Marked -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
   <script>
+    // Load markdown sections
+    fetch("contents/introduction.md").then(r => r.text()).then(t => {
+      document.getElementById("introduction-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/data_presentation.md").then(r => r.text()).then(t => {
+      document.getElementById("data_presentation-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/story.md").then(r => r.text()).then(t => {
+      document.getElementById("story-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/our_analysis.md").then(r => r.text()).then(t => {
+      document.getElementById("our_analysis-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/part1bis.md").then(r => r.text()).then(t => {
+      document.getElementById("part1bis-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/part2.md").then(r => r.text()).then(t => {
+      document.getElementById("part2-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/part3.md").then(r => r.text()).then(t => {
+      document.getElementById("part3-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/part4.md").then(r => r.text()).then(t => {
+      document.getElementById("part4-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/conclusion.md").then(r => r.text()).then(t => {
+      document.getElementById("conclusion-md").innerHTML = marked.parse(t);
+    });
+
+    fetch("contents/reference.md").then(r => r.text()).then(t => {
+      document.getElementById("reference-md").innerHTML = marked.parse(t);
+    });
+
+    // Scrollspy init (more reliable than only data attributes)
     new bootstrap.ScrollSpy(document.body, {
       target: '#sideToc',
       offset: 120
     });
   </script>
-    
+
 </body>
 </html>
