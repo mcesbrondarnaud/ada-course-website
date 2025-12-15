@@ -338,14 +338,16 @@ fetch("contents/reference.md")
     });
 </script>
 
-<script>
-  const scrollSpy = new bootstrap.ScrollSpy(document.body, {
-    target: '#sideToc',
-    offset: 120
-  });
-</script>
+  <!-- Bootstrap JS (bundle) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-
+  <!-- Scrollspy init -->
+  <script>
+    new bootstrap.ScrollSpy(document.body, {
+      target: '#sideToc',
+      offset: 120
+    });
+  </script>
+    
 </body>
 </html>
