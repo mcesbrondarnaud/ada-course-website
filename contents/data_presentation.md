@@ -26,6 +26,22 @@ To visualize this high-dimensional structure, we apply dimensionality reduction 
 
 <iframe src='https://flo.uri.sh/visualisation/26634242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:80%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
+<section class="container my-5">
+  <div class="row justify-content-center">
+    <div class="col-12 col-lg-10 text-center">
+      <iframe src="https://flo.uri.sh/visualisation/26634242/embed"
+              title="PCA / t-SNE projection"
+              class="flourish-embed-iframe"
+              frameborder="0"
+              scrolling="no"
+              style="width:80%;height:600px;"
+              sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+      </iframe>
+    </div>
+  </div>
+</section>
+
+
 
 <section class="container my-4">
 <div class="row justify-content-center">
