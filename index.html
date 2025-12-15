@@ -263,6 +263,25 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
 <script>
+
+<div class="container">
+  <div class="row">
+    <aside class="col-lg-3 d-none d-lg-block">
+      <nav id="sideToc" class="position-sticky" style="top: 90px;">
+        <div class="list-group">
+          <a class="list-group-item list-group-item-action" href="#intro">Introduction</a>
+          <a class="list-group-item list-group-item-action" href="#methods">Methods</a>
+          <a class="list-group-item list-group-item-action" href="#results">Results</a>
+        </div>
+      </nav>
+    </aside>
+
+    <main class="col-lg-9">
+      <!-- your sections (#intro, #methods, ...) live here -->
+    </main>
+  </div>
+</div>
+
 fetch("contents/introduction.md")
     .then(response => response.text())
     .then(text => {
@@ -313,6 +332,13 @@ fetch("contents/reference.md")
     .then(text => {
         document.getElementById("reference-md").innerHTML = marked.parse(text);
     });
+</script>
+
+<script>
+  const scrollSpy = new bootstrap.ScrollSpy(document.body, {
+    target: '#sideToc',
+    offset: 120
+  });
 </script>
 
     
