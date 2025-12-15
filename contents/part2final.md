@@ -52,6 +52,43 @@ Several clear patterns emerge:
 - Recurrent neighbors exhibit negativity levels comparable to sources, and clearly higher than unrelated subreddits.
 This already provides qualitative evidence that peaks are not purely global phenomena, but are shaped by local network structure.
 
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src="https://flo.uri.sh/visualisation/26805788/embed"
+        title="Negativity levels during peaks by subreddit category"
+        class="flourish-embed-iframe"
+        frameborder="0"
+        scrolling="no"
+        style="width:100%;height:600px;"
+        sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+</iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>Negativity patterns during peaks</h4>
+
+<ul>
+<li><strong>Original sources</strong> dominate negativity levels during peaks, supporting Hypothesis&nbsp;1.</li>
+<li><strong>Recurrent neighbors</strong> exhibit negativity levels comparable to sources, and clearly higher than unrelated subreddits.</li>
+</ul>
+
+<p>
+These patterns indicate that negativity peaks are not purely global or random phenomena.
+Instead, they are strongly shaped by the <strong>local structure of the interaction network</strong>,
+with direct exposure to negative sources playing a key role in amplifying hostility.
+</p>
+</div>
+</div>
+
+</div>
+</section>
+
+
 
 
 ## Are Neighbors More Affected Than Others? Statistical Evidence
