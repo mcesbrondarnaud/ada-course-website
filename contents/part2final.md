@@ -69,6 +69,24 @@ method : Stat test across peaks to see if neighbors have significantly higher in
 
 
 ### **Overall conclusions on peaks analysis:** 
+
+<section class="container my-4">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-8 col-lg-6">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h4 class="card-title mb-2">À retenir</h4>
+          <p class="card-text mb-0">
+            - neighbors + sources have higher negativity during peaks wrt to othershat do not interact with sources
+            - tagged_in neighbors have significantly higher increase in negativity during peaks wrt to others
+            - targeting neighbors are mostly inactive during peaks and mask the effect if included
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 - neighbors + sources have higher negativity during peaks wrt to othershat do not interact with sources
 - tagged_in neighbors have significantly higher increase in negativity during peaks wrt to others
 - targeting neighbors are mostly inactive during peaks and mask the effect if included
