@@ -19,6 +19,40 @@ Now we want to understand negativity during peaks : main actors, sources, spread
 
 
 ## voir si neighbours réagissent plus que les autres 
+
+
+<section class="container my-5">
+  <div class="row align-items-start g-4">
+
+    <!-- Graphe (Flourish) -->
+    <div class="col-12 col-lg-7">
+      <div class="card p-3">
+        <iframe
+          src="https://flo.uri.sh/visualisation/26805788/embed"
+          title="Interactive or visual content"
+          class="flourish-embed-iframe"
+          frameborder="0"
+          scrolling="no"
+          style="width:100%;height:600px;"
+          sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+        </iframe>
+      </div>
+    </div>
+
+    <!-- Explication -->
+    <div class="col-12 col-lg-5">
+      <h3 class="mb-3">Key takeaway</h3>
+      <p class="mb-0">
+        Original sources dominate negativity, others &amp; tagged_in neighbors are similar,
+        but neighbors seem slightly higher.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+
+
 <iframe src='https://flo.uri.sh/visualisation/26805788/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 > Original sources dominate negativity, others & tagged_in neighbors are similar but neighbors seem slightly higher
