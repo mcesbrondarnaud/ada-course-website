@@ -229,3 +229,12 @@ section {
 }
 
 
+.section { background: #fff; }  /* default white */
+
+#introduction,
+#story,
+#part1bis,
+#part3,
+#reference {
+  background: #f7f2f2;
+}
