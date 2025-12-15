@@ -26,7 +26,6 @@ Several key patterns emerge:
 - Some clusters are repeatedly targeted by multiple others, reinforcing their role as accumulators of hostility.
 This confirms that negativity behaves as a networked phenomenon, flowing across thematic boundaries rather than remaining local.
 
-
 <section class="container my-5">
   <div class="row align-items-start g-4">
 
@@ -45,7 +44,7 @@ This confirms that negativity behaves as a networked phenomenon, flowing across 
       </div>
     </div>
 
-    <!-- TEXT BOX -->
+    <!-- TEXT -->
     <div class="col-12 col-lg-5">
       <div class="card shadow-sm h-100">
         <div class="card-body p-4">
@@ -67,6 +66,7 @@ This confirms that negativity behaves as a networked phenomenon, flowing across 
 
   </div>
 </section>
+
 
 
 ## ratio 
