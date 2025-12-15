@@ -1,7 +1,3 @@
-<div style="background:yellow;padding:10px;">
-  HTML TEST
-</div>
-
 # The big picture on negativity, main flows across subreddits
 This section investigates the flow of negativity between different clusters, aiming to identify which subreddits are the primary sources of negative interactions and how negativity propagates across Reddit. By studying the flow, we can identify whether certain communities act as "gateways" for negativity, redirecting hostility to other subreddits, or if some communities accumulate negativity.
 
