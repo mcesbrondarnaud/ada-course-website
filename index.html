@@ -19,7 +19,11 @@
     <!-- <link href="static/css/main.css" rel="stylesheet" /> -->
 </head>
 
-<body id="page-top">
+<body id="page-top"
+      data-bs-spy="scroll"
+      data-bs-target="#sideToc"
+      data-bs-offset="120"
+      tabindex="0">
 
 <!-- NAVIGATION -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
@@ -341,6 +345,7 @@ fetch("contents/reference.md")
   });
 </script>
 
-    
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
