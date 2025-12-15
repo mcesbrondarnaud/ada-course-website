@@ -75,7 +75,7 @@
             <li><a class="nav-link" href="#data_presentation">Data Presentation</a></li>
             <li><a class="nav-link" href="#story">The Story</a></li>
             <li><a class="nav-link" href="#our_analysis">Our Analysis</a></li>
-            <li><a class="nav-link" href="#part1bis">Part 1</a></li>
+            <li><a class="nav-link" href="#part1final">Part 1</a></li>
             <li><a class="nav-link" href="#part2">Part 2</a></li>
             <li><a class="nav-link" href="#part3">Part 3</a></li>
             <li><a class="nav-link" href="#part4">Part 4</a></li>
@@ -114,9 +114,9 @@
         </section>
 
         <!-- PART 1 -->
-        <section id="part1bis" class="section py-5">
+        <section id="part1final" class="section py-5">
           <h2>Part 1</h2>
-          <div id="part1bis-md"></div>
+          <div id="part1final"></div>
         </section>
 
         <!-- PART 2 -->
@@ -245,8 +245,8 @@
     fetch("contents/our_analysis.md").then(r => r.text()).then(t => {
       document.getElementById("our_analysis-md").innerHTML = marked.parse(t);
     });
-    fetch("contents/part1bis.md").then(r => r.text()).then(t => {
-      document.getElementById("part1bis-md").innerHTML = marked.parse(t);
+    fetch("contents/part1final.md").then(r => r.text()).then(t => {
+      document.getElementById("part1final-md").innerHTML = marked.parse(t);
     });
     fetch("contents/part2.md").then(r => r.text()).then(t => {
       document.getElementById("part2-md").innerHTML = marked.parse(t);
