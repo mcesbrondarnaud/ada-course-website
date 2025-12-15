@@ -20,6 +20,7 @@ Now we want to understand negativity during peaks : main actors, sources, spread
 
 ## voir si neighbours réagissent plus que les autres 
 <iframe src='https://flo.uri.sh/visualisation/26805788/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
 > Original sources dominate negativity, others & tagged_in neighbors are similar but neighbors seem slightly higher
 
 
