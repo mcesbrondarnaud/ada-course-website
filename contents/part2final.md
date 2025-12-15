@@ -45,13 +45,6 @@ To test these hypotheses, we compare negativity levels during peak periods acros
 - Recurrent neighbourgs,
 - Other
 
-<iframe src='https://flo.uri.sh/visualisation/26805788/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
-Several clear patterns emerge:
-- Original sources dominate negativity levels during peaks, confirming Hypothesis 1.
-- Recurrent neighbors exhibit negativity levels comparable to sources, and clearly higher than unrelated subreddits.
-This already provides qualitative evidence that peaks are not purely global phenomena, but are shaped by local network structure.
-
 <section class="container my-5">
 <div class="row g-4 align-items-start">
 
