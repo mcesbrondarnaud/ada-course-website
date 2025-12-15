@@ -47,8 +47,6 @@ To test these hypotheses, we compare negativity levels during peak periods acros
 
 <iframe src='https://flo.uri.sh/visualisation/26805788/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-> Original sources dominate negativity, others & tagged_in neighbors are similar but neighbors seem slightly higher
-
 Several clear patterns emerge:
 - Original sources dominate negativity levels during peaks, confirming Hypothesis 1.
 - Recurrent neighbors exhibit negativity levels comparable to sources, and clearly higher than unrelated subreddits.
@@ -78,7 +76,6 @@ method : Stat test across peaks to see if neighbors have significantly higher in
             - Peaks are source-driven, not random.
             - Direct neighbors of negative sources are significantly more affected than other communities.
             - The observed patterns provide strong evidence of network-based contagion.
-
             These insights naturally connect to Part 3, where we examine how such dynamics interact with real-world events and whether future negativity waves can be predicted.
           </p>
         </div>
