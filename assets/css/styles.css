@@ -239,3 +239,36 @@ section {
 #conclusion {
   background: #f7f2f2;
 }
+
+
+/* --- Side TOC (no lines) --- */
+#sideToc { padding-top: 10px; }
+
+#sideToc .toc {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+#sideToc .toc li { margin: 10px 0; }
+
+#sideToc .toc .nav-link {
+  color: #333;          /* override global link blue for the sidebar */
+  text-decoration: none;
+  opacity: 0.7;
+  padding: 0;           /* no button-like padding */
+}
+
+#sideToc .toc .nav-link:hover {
+  opacity: 1;
+  color: #800020;
+}
+
+#sideToc .toc .nav-link.active {
+  font-weight: 700;
+  opacity: 1;
+  color: #800020;
+}
+
+/* Optional: slightly smaller sidebar text */
+#sideToc { font-size: 14px; }
