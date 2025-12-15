@@ -32,23 +32,36 @@ This confirms that negativity behaves as a networked phenomenon, flowing across 
 
 This figure shows how negativity circulates between clusters.
 
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
 <div class="col-12 col-lg-7">
-  <iframe src="https://flo.uri.sh/visualisation/26513009/embed"
-          style="width:100%;height:600px;"
-          frameborder="0">
-  </iframe>
+<div class="card p-3">
+<iframe src="https://flo.uri.sh/visualisation/26513009/embed"
+        style="width:100%;height:600px;"
+        frameborder="0"
+        scrolling="no"></iframe>
+</div>
 </div>
 
 <div class="col-12 col-lg-5">
-  <div class="card p-4 shadow-sm">
-    <h4>Main insights</h4>
-    <ul>
-      <li>Negativity flows across clusters.</li>
-      <li>Political clusters act as exporters.</li>
-      <li>Some clusters accumulate hostility.</li>
-    </ul>
-  </div>
+<div class="card p-4 shadow-sm h-100">
+<h4>Main insights</h4>
+<ul>
+<li>Negativity is not confined within clusters: inter-cluster hostility is substantial.</li>
+<li>Political and ideologically oriented clusters tend to export negativity broadly.</li>
+<li>Some clusters are repeatedly targeted, reinforcing their role as accumulators of hostility.</li>
+</ul>
+<p>
+This confirms that negativity behaves as a networked phenomenon, flowing across thematic
+boundaries rather than remaining local.
+</p>
 </div>
+</div>
+
+</div>
+</section>
+
 
 
 
