@@ -1,10 +1,11 @@
 # Part 2 - dynamics 
 
-## 3.a.2
-Let's see if we can identity statistically significant peaks
-notebook
+## 3.a.2 Let's see if we can identity statistically significant peaks
+[notebook]
 
 
+
+##
 Now we want to understand negativity during peaks : main actors, sources, spreading to neighbours
 - Hypothesis 1: there are subreddit sources of negativity that trigger peaks
 - Hypothesis 2: neighbors of sources are more negative during peaks (contagion)
