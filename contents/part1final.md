@@ -127,35 +127,36 @@ Together, these results reinforce a central message of our project:
 </section>
 
 
+<div style="margin:2rem 0;"></div>
+
 <section class="container my-5">
-  <div class="row justify-content-center">
-    <div class="col-12 col-lg-10">
-      <div class="card shadow-sm">
-        <div class="card-body p-4 p-md-5">
+<div class="row justify-content-center">
+<div class="col-12 col-lg-10">
+<div class="card shadow-sm">
+<div class="card-body p-4 p-md-5">
 
-          <h4 class="card-title mb-3">Overall conclusions on negativity</h4>
+<h4 class="card-title mb-3">Overall conclusions on negativity</h4>
 
-          <ul class="mb-4">
-            <li>Negativity flows across Reddit in a highly structured and directional way.</li>
-            <li>Certain clusters act as sources, others as sinks, and some as gateways that redirect hostility.</li>
-            <li>Inter-cluster hostility is substantial, showing that negativity easily crosses thematic boundaries.</li>
-            <li>A small fraction of subreddits is responsible for a disproportionate share of negative interactions.</li>
-          </ul>
+<ul class="mb-4">
+<li>Negativity flows across Reddit in a highly structured and directional way.</li>
+<li>Certain clusters act as sources, others as sinks, and some as gateways that redirect hostility.</li>
+<li>Inter-cluster hostility is substantial, showing that negativity easily crosses thematic boundaries.</li>
+<li>A small fraction of subreddits is responsible for a disproportionate share of negative interactions.</li>
+</ul>
 
-          <p class="mb-0">
-            Together, these results reinforce a central message of our project:
-            <strong>
-              online negativity is not diffuse or random — it is concentrated, directional,
-              and driven by a small set of influential communities.
-            </strong>
-          </p>
+<p class="mb-0">
+Together, these results reinforce a central message of our project:
+<strong>
+online negativity is not diffuse or random — it is concentrated, directional,
+and driven by a small set of influential communities.
+</strong>
+</p>
 
-        </div>
-      </div>
-    </div>
-  </div>
+</div>
+</div>
+</div>
+</div>
 </section>
-
 
 
 
