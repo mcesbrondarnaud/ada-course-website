@@ -26,7 +26,6 @@ To visualize this high-dimensional structure, we apply dimensionality reduction 
 
 <iframe src='https://flo.uri.sh/visualisation/26634242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:80%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-This projection already suggests that Reddit communities are not randomly distributed, but organized around well-defined thematic regions.
 
 <section class="container my-4">
 <div class="row justify-content-center">
@@ -54,8 +53,6 @@ but instead organized around
 Once clusters are identified, we examine their relative sizes, measured by the number of subreddits they contain. This step is important to distinguish between large, dominant thematic areas and more niche communities.
 
 <iframe src='https://flo.uri.sh/visualisation/26558499/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
-This distribution highlights strong imbalances across themes, which later proves crucial when interpreting negativity levels and flows: large clusters naturally generate more interactions, but not necessarily more hostility.
 
 <section class="container my-4">
 <div class="row justify-content-center">
