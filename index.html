@@ -240,6 +240,15 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
   <script>
+    marked.setOptions({
+      gfm: true,
+      breaks: true,
+      headerIds: false,
+      mangle: false
+    });
+  </script>
+
+  <script>
     fetch("contents/introduction.md").then(r => r.text()).then(t => {
       document.getElementById("introduction-md").innerHTML = marked.parse(t);
     });
