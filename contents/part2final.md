@@ -13,6 +13,21 @@ We examined the negativity ratio (the proportion of negative links relative to t
 
 ##
 Now we want to understand negativity during peaks : main actors, sources, spreading to neighbours
+<section class="container my-4">
+  <div class="row g-3">
+    <div class="col-12 col-lg-4">
+      <div class="card p-3 h-100">Hypothesis 1: there are subreddit sources of negativity that trigger peaks</div>
+    </div>
+    <div class="col-12 col-lg-4">
+      <div class="card p-3 h-100">Hypothesis 2: neighbors of sources are more negative during peaks (contagion)</div>
+    </div>
+    <div class="col-12 col-lg-4">
+      <div class="card p-3 h-100">Hypothesis 3: neighbors directly exposed to sources are more negative during peaks and have higher increase than others (contagion)</div>
+    </div>
+  </div>
+</section>
+
+
 - Hypothesis 1: there are subreddit sources of negativity that trigger peaks
 - Hypothesis 2: neighbors of sources are more negative during peaks (contagion)
 - Hypothesis 3: neighbors directly exposed to sources are more negative during peaks and have higher increase than others (contagion)
