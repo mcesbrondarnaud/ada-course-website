@@ -146,7 +146,7 @@
 <section id="team" style="background-color:#f7f2f2; padding:60px 0 40px 0;">
     <div class="container">
         <h2>Team</h2>
-        <div id="team-md"></div>
+        <div id="team-html"></div>
     </div>
 </section>
 
@@ -203,10 +203,10 @@ fetch("contents/reference.md")
     .then(text => {
         document.getElementById("reference-md").innerHTML = marked.parse(text);
     });
-fetch("contents/team.md")
+fetch("contents/team.html")
   .then(r => r.text())
   .then(text => {
-    document.getElementById("team-md").innerHTML = marked.parse(text);
+    document.getElementById("team-html").innerHTML = marked.parse(text);
   });
 </script>
 
