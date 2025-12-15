@@ -26,6 +26,49 @@ Several key patterns emerge:
 - Some clusters are repeatedly targeted by multiple others, reinforcing their role as accumulators of hostility.
 This confirms that negativity behaves as a networked phenomenon, flowing across thematic boundaries rather than remaining local.
 
+
+<section class="container my-5">
+  <div class="row align-items-start g-4">
+
+    <!-- GRAPH -->
+    <div class="col-12 col-lg-7">
+      <div class="card p-3">
+        <iframe
+          src="https://flo.uri.sh/visualisation/26513009/embed"
+          title="Inter-cluster negativity flows"
+          class="flourish-embed-iframe"
+          frameborder="0"
+          scrolling="no"
+          style="width:100%;height:600px;"
+          sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+        </iframe>
+      </div>
+    </div>
+
+    <!-- TEXT BOX -->
+    <div class="col-12 col-lg-5">
+      <div class="card shadow-sm h-100">
+        <div class="card-body p-4">
+          <h4 class="card-title mb-3">Inter-cluster negativity patterns</h4>
+
+          <ul class="card-text mb-3">
+            <li>Negativity is not confined within clusters: inter-cluster hostility is substantial.</li>
+            <li>Political and ideologically oriented clusters tend to export negativity broadly.</li>
+            <li>Some clusters are repeatedly targeted, reinforcing their role as accumulators of hostility.</li>
+          </ul>
+
+          <p class="card-text mb-0">
+            This confirms that negativity behaves as a networked phenomenon, flowing across thematic
+            boundaries rather than remaining local.
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
 ## ratio 
 <iframe src='https://flo.uri.sh/visualisation/26805661/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
