@@ -30,6 +30,8 @@ To ensure statistical robustness:
 
 A conflict spike is defined as a weekly z-score greater than 2, indicating an unusually high level of negative interaction compared to the pair’s baseline behavior. This method allows us to focus on relative surges in conflict, rather than raw interaction counts.
 
+[graph notebook antoine]
+
 
 ### Week-by-week conflict dynamics
 
