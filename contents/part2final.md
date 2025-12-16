@@ -17,34 +17,61 @@ We examined the negativity ratio (the proportion of negative links relative to t
 
 
 
-## analysing conflit intra and extra cluster between subreddits
-## moyenne -> z-score sur 1 semaine => peak
-pair de subreddits 
-si au moins 4 semaine actif => 1119 pairs valide
-au dessus de 2 => spike 
+## Analyzing intra- and inter-cluster conflicts between subreddits
+
+To further understand how negativity manifests across Reddit, we move from aggregate negativity measures to a pairwise conflict analysis between subreddits. Rather than focusing solely on volumes of negative links, this approach allows us to detect periods of unusually intense conflict between specific pairs of communities.
+
+## Detecting conflict spikes using z-scores
+For each pair of subreddits, we construct a weekly time series of negative interactions. To identify abnormal conflict intensity, we compute a z-score for each pair on a weekly basis, defined as the deviation from its historical mean.
+
+To ensure statistical robustness:
+- only pairs active for at least 4 weeks are retained,
+- this filtering yields 1,119 valid subreddit pairs.
+
+A conflict spike is defined as a weekly z-score greater than 2, indicating an unusually high level of negative interaction compared to the pair’s baseline behavior. This method allows us to focus on relative surges in conflict, rather than raw interaction counts.
 
 
-### conflit semaine par semaine 
-fichier python (2) 
-plus la fleche est grosse plus il y a de conflit 
+### Week-by-week conflict dynamics
 
-on remarque que informative à l'air d'être la source principale des conflit suivit de pret par political 
+Using the detected spikes, we visualize conflicts on a week-by-week basis, where directed edges represent conflict between clusters.
+The thickness of each arrow corresponds to the intensity of the conflict during that week: the larger the arrow, the stronger the negative interaction.
 
-on peut prouver ça avec ce plot qui montre la contribution sur les conflit 
-<iframe src='https://flo.uri.sh/visualisation/26800720/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+[Python file] 
+
+This dynamic representation highlights that conflict is not uniformly distributed over time, but instead concentrates in short bursts involving specific cluster pairs.
+
+A clear pattern emerges:
+the Informative cluster appears to be the primary source of conflicts, closely followed by the Political cluster. These clusters repeatedly initiate or are involved in high-intensity conflict spikes across weeks.
+
+To quantitatively support this observation, we examine the contribution of each cluster to overall conflict activity, as shown in the following plot:
+
+<iframe src='https://flo.uri.sh/visualisation/26800720/embed' title='Cluster contribution to conflicts' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+
+This visualization confirms that a small number of clusters account for a disproportionate share of conflict spikes, reinforcing the idea that conflict dynamics are highly concentrated.
 
 
-### nombre de conflits 
-15 pairs de clusters qui sont le plus en conflit 
-=> repres ça sur diagram
-<iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-conclu : beaucoup de intro cluster conflit, les extra custer sont princiaplement de informative à poolitical et de political à informative 
+### Most conflictual cluster pairs
+
+We then aggregate conflict spikes across time and identify the 15 cluster pairs with the highest number of conflicts. These pairs are visualized in a diagram that highlights recurrent antagonistic relationships between thematic clusters.
+
+<iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Most conflictual cluster pairs' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+
+Two key observations stand out:
+- A large share of conflicts are intra-cluster, suggesting that hostility often emerges within the same thematic communities.
+- Among inter-cluster conflicts, the most prominent exchanges occur from Informative to Political clusters and vice versa, indicating a strong bidirectional antagonism between these two thematic domains.
+
+This asymmetry highlights that while many clusters remain relatively isolated from conflict, a few thematic interfaces repeatedly generate tension.
 
 
-### 5 plus gros cluster qui ont des conflits 
-<iframe src='https://flo.uri.sh/visualisation/26805809/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-on voit par exemple que gaming envoie peu de conflit sur les autres mais en recoit pas mal
+### Clusters most involved in conflicts
+
+Finally, we examine the five clusters most involved in conflict, accounting for both conflicts sent and conflicts received.
+
+<iframe src='https://flo.uri.sh/visualisation/26805809/embed' title='Top clusters involved in conflicts' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+
+This analysis reveals heterogeneous roles across clusters. For example, the Gaming cluster sends relatively few conflicts to other clusters, yet receives a substantial amount of conflict. This suggests that some communities act primarily as targets rather than initiators of hostility.
+
 
 
 ## What Happens During Peaks? 
