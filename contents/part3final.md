@@ -1,4 +1,4 @@
-# part 3 - cause 
+# Part 3 - Triggers and external drivers of negativity 
 
 ## Main sources of negativity: identifying spreaders
 
