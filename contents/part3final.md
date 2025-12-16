@@ -16,6 +16,10 @@ This recurrence suggests that negativity waves are not driven by a constantly ch
 
 [Link to another page](content/network_viz.html).
 
+[Link to another 2](/network_viz.html).
+
+[Link to another 3](network_viz.html).
+
 [site marzio]
 
 
