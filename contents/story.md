@@ -6,9 +6,9 @@ You share an opinion on Reddit — nothing outrageous, just a thought.
 Within minutes, replies appear. Some disagree. Then the tone shifts. Comments become sharper. Users from other subreddits jump in. Links start flying. Suddenly, the discussion no longer feels like a debate, but like a wave of hostility you didn’t see coming.
 
 You close your laptop and wonder:
-Why did this escalate so fast?
-Was it something I said — or something about where I posted it?
-And why did it spread beyond the original community?
+- Why did this escalate so fast?
+- Was it something I said — or something about where I posted it?
+- And why did it spread beyond the original community?
 
 This experience is not unique. On large online platforms, negativity often seems to emerge suddenly, spread rapidly, and concentrate around certain communities. Yet despite how common this phenomenon is, it is rarely understood as a collective, network-driven process.
 
