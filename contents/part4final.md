@@ -1,4 +1,4 @@
-# prediction 
+# Part 4 - Network propagation and contagion effects 
 
 model pour comprendre ce qui se passe 
 model causal qui essaye de prédire à la semaine d'après le r-value en fonction de différents paramètre 
