@@ -16,6 +16,37 @@ We examined the negativity ratio (the proportion of negative links relative to t
 
 
 
+
+## analysing conflit intra and extra cluster between subreddits
+## moyenne -> z-score sur 1 semaine => peak
+pair de subreddits 
+si au moins 4 semaine actif => 1119 pairs valide
+au dessus de 2 => spike 
+
+
+### conflit semaine par semaine 
+fichier python (2) 
+plus la fleche est grosse plus il y a de conflit 
+
+on remarque que informative à l'air d'être la source principale des conflit suivit de pret par political 
+
+on peut prouver ça avec ce plot qui montre la contribution sur les conflit 
+<iframe src='https://flo.uri.sh/visualisation/26800720/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
+
+### nombre de conflits 
+15 pairs de clusters qui sont le plus en conflit 
+=> repres ça sur diagram
+<iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
+conclu : beaucoup de intro cluster conflit, les extra custer sont princiaplement de informative à poolitical et de political à informative 
+
+
+### 5 plus gros cluster qui ont des conflits 
+<iframe src='https://flo.uri.sh/visualisation/26805809/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+on voit par exemple que gaming envoie peu de conflit sur les autres mais en recoit pas mal
+
+
 ## What Happens During Peaks? 
 
 Once peaks are identified, we investigate how negativity is structured during these critical moments.
