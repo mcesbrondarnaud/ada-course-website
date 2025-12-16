@@ -14,11 +14,7 @@ When aggregating negative links by cluster during peak weeks, a small subset of 
 This recurrence suggests that negativity waves are not driven by a constantly changing set of communities, but instead involve stable, recurrent actors.
 
 
-
-souvent les même clusters 
-
-mais pas eux à l'origine, eux c'est des spreaders 
-site marzio 
+[site marzio]
 
 
 Key takeaway
