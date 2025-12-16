@@ -1,4 +1,4 @@
-# Part 2 - dynamics 
+# Part 2 - Temporal dynamics of online negativity
 
 While the previous section highlighted where negativity is concentrated on Reddit and how it flows between communities, it did not yet explain when negativity becomes most intense. In practice, hostility on Reddit does not remain constant over time. Instead, it tends to rise and fall in waves, with short periods during which negative interactions sharply intensify.
 
