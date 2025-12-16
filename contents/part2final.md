@@ -51,6 +51,43 @@ To quantitatively support this observation, we examine the contribution of each 
 
 This visualization confirms that a small number of clusters account for a disproportionate share of conflict spikes, reinforcing the idea that conflict dynamics are highly concentrated.
 
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src="https://flo.uri.sh/visualisation/26800720/embed"
+        title="Cluster contribution to conflict spikes"
+        class="flourish-embed-iframe"
+        frameborder="0"
+        scrolling="no"
+        style="width:100%;height:600px;">
+</iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>Conflict concentration across clusters</h4>
+
+<p>
+This visualization confirms that conflict dynamics on Reddit are
+<strong>highly concentrated</strong>.
+A small number of clusters account for a disproportionate share of
+detected conflict spikes, while most clusters remain only marginally involved.
+</p>
+
+<p class="mb-0">
+This concentration mirrors earlier findings on negativity and reinforces the idea
+that intense conflict is driven by a limited set of thematic communities rather than
+being evenly distributed across the platform.
+</p>
+</div>
+</div>
+
+</div>
+</section>
+
 
 
 #### Most conflictual cluster pairs
@@ -66,6 +103,48 @@ Two key observations stand out:
 This asymmetry highlights that while many clusters remain relatively isolated from conflict, a few thematic interfaces repeatedly generate tension.
 
 
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src="https://flo.uri.sh/visualisation/26805414/embed"
+        title="Most conflictual cluster pairs"
+        class="flourish-embed-iframe"
+        frameborder="0"
+        scrolling="no"
+        style="width:100%;height:600px;">
+</iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>Structure of inter- and intra-cluster conflicts</h4>
+
+<ul>
+<li>
+A large share of detected conflicts are <strong>intra-cluster</strong>, indicating that hostility
+often emerges within the same thematic communities.
+</li>
+<li>
+Among <strong>inter-cluster conflicts</strong>, the most prominent exchanges occur between
+<strong>Informative</strong> and <strong>Political</strong> clusters, revealing a strong bidirectional antagonism.
+</li>
+</ul>
+
+<p class="mb-0">
+This asymmetry highlights that while many clusters remain relatively isolated from conflict,
+a small number of <strong>thematic interfaces</strong> repeatedly generate tension and dominate
+cross-cluster conflict dynamics.
+</p>
+</div>
+</div>
+
+</div>
+</section>
+
+
 #### Clusters most involved in conflicts
 
 Finally, we examine the five clusters most involved in conflict, accounting for both conflicts sent and conflicts received.
@@ -73,6 +152,47 @@ Finally, we examine the five clusters most involved in conflict, accounting for 
 <iframe src='https://flo.uri.sh/visualisation/26805809/embed' title='Top clusters involved in conflicts' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 This analysis reveals heterogeneous roles across clusters. For example, the Gaming cluster sends relatively few conflicts to other clusters, yet receives a substantial amount of conflict. This suggests that some communities act primarily as targets rather than initiators of hostility.
+
+
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src="https://flo.uri.sh/visualisation/26805809/embed"
+        title="Top clusters involved in conflicts"
+        class="flourish-embed-iframe"
+        frameborder="0"
+        scrolling="no"
+        style="width:100%;height:600px;">
+</iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>Asymmetric roles in conflict dynamics</h4>
+
+<p>
+This analysis reveals <strong>heterogeneous roles</strong> across clusters in conflict dynamics.
+Not all communities contribute to hostility in the same way.
+</p>
+
+<p>
+For instance, the <strong>Gaming</strong> cluster sends relatively few conflicts to other clusters,
+yet receives a substantial amount of hostility. This pattern suggests that some communities
+primarily act as <strong>targets</strong> of conflict rather than as its initiators.
+</p>
+
+<p class="mb-0">
+Such asymmetries further reinforce the idea that conflict on Reddit is structured and role-based,
+with clear distinctions between clusters that initiate, relay, or absorb hostile interactions.
+</p>
+</div>
+</div>
+
+</div>
+</section>
 
 
 
