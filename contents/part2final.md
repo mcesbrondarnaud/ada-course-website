@@ -40,6 +40,10 @@ The thickness of each arrow corresponds to the intensity of the conflict during 
 
 [Python file] 
 
+<iframe src="assets/figures/graphA.html"
+        style="width:100%;height:650px;border:0;"
+        loading="lazy"></iframe>
+
 This dynamic representation highlights that conflict is not uniformly distributed over time, but instead concentrates in short bursts involving specific cluster pairs.
 
 A clear pattern emerges:
