@@ -21,7 +21,7 @@ We examined the negativity ratio (the proportion of negative links relative to t
 
 To further understand how negativity manifests across Reddit, we move from aggregate negativity measures to a pairwise conflict analysis between subreddits. Rather than focusing solely on volumes of negative links, this approach allows us to detect periods of unusually intense conflict between specific pairs of communities.
 
-## Detecting conflict spikes using z-scores
+#### Detecting conflict spikes using z-scores
 For each pair of subreddits, we construct a weekly time series of negative interactions. To identify abnormal conflict intensity, we compute a z-score for each pair on a weekly basis, defined as the deviation from its historical mean.
 
 To ensure statistical robustness:
@@ -33,7 +33,7 @@ A conflict spike is defined as a weekly z-score greater than 2, indicating an un
 [graph notebook antoine]
 
 
-### Week-by-week conflict dynamics
+#### Week-by-week conflict dynamics
 
 Using the detected spikes, we visualize conflicts on a week-by-week basis, where directed edges represent conflict between clusters.
 The thickness of each arrow corresponds to the intensity of the conflict during that week: the larger the arrow, the stronger the negative interaction.
@@ -53,7 +53,7 @@ This visualization confirms that a small number of clusters account for a dispro
 
 
 
-### Most conflictual cluster pairs
+#### Most conflictual cluster pairs
 
 We then aggregate conflict spikes across time and identify the 15 cluster pairs with the highest number of conflicts. These pairs are visualized in a diagram that highlights recurrent antagonistic relationships between thematic clusters.
 
@@ -66,7 +66,7 @@ Two key observations stand out:
 This asymmetry highlights that while many clusters remain relatively isolated from conflict, a few thematic interfaces repeatedly generate tension.
 
 
-### Clusters most involved in conflicts
+#### Clusters most involved in conflicts
 
 Finally, we examine the five clusters most involved in conflict, accounting for both conflicts sent and conflicts received.
 
