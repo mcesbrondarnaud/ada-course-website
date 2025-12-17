@@ -83,6 +83,48 @@ boundaries rather than remaining local.
 
 
 ## Tracking negativity over time : cluster-level trends 
+
+This section examines how negativity evolves over time across thematic clusters, with the goal of identifying persistent patterns and dominant contributors. Rather than treating negativity as a static characteristic, we analyze its monthly dynamics to understand how hostile behavior fluctuates and which clusters consistently drive negativity.
+
+Using monthly aggregates, we compute negativity ratios for each high-level cluster, allowing us to track temporal variations across themes and detect both long-term trends and short-lived surges.
+
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src="https://flo.uri.sh/visualisation/26805661/embed"
+        title="Monthly negativity ratios by cluster"
+        class="flourish-embed-iframe"
+        frameborder="0"
+        scrolling="no"
+        style="width:100%;height:600px;">
+</iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>Temporal patterns across clusters</h4>
+
+<p>
+The time series reveals clear differences in how negativity evolves across thematic clusters.
+Some clusters maintain <strong>consistently high negativity levels</strong> over time, while others
+exhibit more <strong>episodic behavior</strong>, characterized by sharp but short-lived increases.
+</p>
+
+<p class="mb-0">
+These patterns suggest that negativity is not uniformly driven by external shocks alone,
+but is also shaped by the <strong>internal dynamics and norms</strong> of specific communities.
+</p>
+</div>
+</div>
+
+</div>
+</section>
+
+
+
 This section examines how negativity evolves over time across thematic clusters, with a particular focus on identifying persistent patterns and dominant contributors. Rather than treating negativity as a static property, we analyze its monthly dynamics to understand how hostile behavior fluctuates and which communities consistently drive it.
 
 Using monthly aggregates, we compute negativity ratios for each high-level cluster, allowing us to track temporal variations in negativity across themes. The resulting time series highlights both periods of relative stability and moments of sharp change, revealing that some clusters maintain consistently higher levels of negativity while others exhibit more episodic behavior.
