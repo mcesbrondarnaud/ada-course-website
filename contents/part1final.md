@@ -124,17 +124,6 @@ but is also shaped by the <strong>internal dynamics and norms</strong> of specif
 </section>
 
 
-
-This section examines how negativity evolves over time across thematic clusters, with a particular focus on identifying persistent patterns and dominant contributors. Rather than treating negativity as a static property, we analyze its monthly dynamics to understand how hostile behavior fluctuates and which communities consistently drive it.
-
-Using monthly aggregates, we compute negativity ratios for each high-level cluster, allowing us to track temporal variations in negativity across themes. The resulting time series highlights both periods of relative stability and moments of sharp change, revealing that some clusters maintain consistently higher levels of negativity while others exhibit more episodic behavior.
-
-<iframe src='https://flo.uri.sh/visualisation/26805661/embed' title='Monthly negativity ratios by cluster' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
-
-Beyond cluster-level trends, we further investigate the subreddit-level contributors to these dynamics. By identifying the subreddits responsible for the largest share of negative interactions, we observe that a small number of communities repeatedly dominate negativity over time. Tracking their monthly evolution reveals both persistence and turnover among top negative subreddits, offering additional insight into how negativity is sustained and redistributed within clusters.
-
-
-
 ## Top contributors: a small number of actors drive most negativity
 We now zoom in on the most influential subreddits by tracking the evolution of the top 5 contributors to negative outlinks over time.
 
