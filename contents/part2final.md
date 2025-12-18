@@ -40,7 +40,7 @@ The thickness of each arrow corresponds to the intensity of the conflict during 
 
 [Python file] 
 
-<iframe src="assets/figures/graphA.html"
+<iframe src="/ada-course_website/contents/graphA.html"
         style="width:100%;height:650px;border:0;"
         loading="lazy"></iframe>
 
