@@ -14,22 +14,8 @@ When aggregating negative links by cluster during peak weeks, a small subset of 
 This recurrence suggests that negativity waves are not driven by a constantly changing set of communities, but instead involve stable, recurrent actors.
 
 
-[Link to another page](contents/network_viz.html).
+[Site marzio](/ada-course-website/contents/network_viz.html)
 
-[Link to another 2](/network_viz.html).
-
-[Link to another 3](/contents/network_viz.html).
-
-[Link to another /contents/network_viz.html](/contents/network_viz.html)
-
-[Link to another /contents/network_viz.html](ada-course-website/contents/network_viz.html)
-[Link to another /contents/network_viz.html]([/ada-course-website/contents/network_viz.html](https://mcesbrondarnaud.github.io/ada-course-website/contents/network_viz.html))
-
-
-[Link to another work](/ada-course-website/contents/network_viz.html)
-
-
-[site marzio]
 
 
 Key takeaway
