@@ -25,3 +25,5 @@ Instead, the notebook analysis shows that they act primarily as spreaders, ampli
 
 ## truc de simon
 
+Mettre le truc qui slide avec les différents grands evenement 
+la timeline avec les évenements 
