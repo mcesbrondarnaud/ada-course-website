@@ -38,12 +38,7 @@ A conflict spike is defined as a weekly z-score greater than 2, indicating an un
 Using the detected spikes, we visualize conflicts on a week-by-week basis, where directed edges represent conflict between clusters.
 The thickness of each arrow corresponds to the intensity of the conflict during that week: the larger the arrow, the stronger the negative interaction.
 
-[Python file] 
-
-[Link to another page](/ada-course-website/contents/graphA.html).
-<iframe src="/ada-course_website/contents/graphA.html"
-        style="width:100%;height:650px;border:0;"
-        loading="lazy"></iframe>
+[Python file](/ada-course-website/contents/graphA.html).
 
 This dynamic representation highlights that conflict is not uniformly distributed over time, but instead concentrates in short bursts involving specific cluster pairs.
 
