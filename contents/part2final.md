@@ -268,6 +268,12 @@ method : Stat test across peaks to see if neighbors have significantly higher in
 </section>
 
 > tagged_in neighbors clearly exhibit increased negativity relative to others during waves
+> 
+
+
+
+
+Faure un truc genre faites attention à ces spreaders et tt en mettant leurs nom 
 
 
 
