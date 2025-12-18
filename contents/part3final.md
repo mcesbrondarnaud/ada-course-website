@@ -25,6 +25,10 @@ This recurrence suggests that negativity waves are not driven by a constantly ch
 [Link to another /contents/network_viz.html](ada-course-website/contents/network_viz.html)
 [Link to another /contents/network_viz.html]([/ada-course-website/contents/network_viz.html](https://mcesbrondarnaud.github.io/ada-course-website/contents/network_viz.html))
 
+
+[Link to another work](/ada-course-website/contents/network_viz.html)
+
+
 [site marzio]
 
 
