@@ -21,6 +21,7 @@ For each peak, we ask: Who acted first? By tracing interactions backward in time
 This allows us to separate attack origins from communities that are merely caught in the fallout. Let’s see how the negativity of these groups evolves during peaks.
 
 [Fig 2.2 Neg ratio of groups during peaks]
+<iframe src='https://flo.uri.sh/visualisation/26805788/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 We observe that sources have much higher negativity ratios. Interestingly, their neighbors also have a statistically significant gap with others.
 But is this just because, as we have seen, some subreddits are generally more negative than others? Or is it because of their interaction with sources?
@@ -42,7 +43,7 @@ Comparing the similarity for top sources/neighbors, we see that most peaks share
 We can visualize this nicely looking at negativity ratio evolution of each subreddit:
 
 [Fig 2.5? tSNE with neg ratios]
-
+<iframe src="https://flo.uri.sh/visualisation/26634242/embed" title="PCA / t-SNE projection" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:80%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"> </iframe>
 The sources + neighbors appear to be spatially close, and negativity evolution supports our observation of echochambers.
 
 
