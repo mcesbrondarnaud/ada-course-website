@@ -27,13 +27,14 @@ We can see that some clusters tend to keep their conflicts at home. It is especi
 Let’s try and characterize these main flows between different clusters:
 
 [Fig 1.4 Extra-cluster flows]
+<iframe src="https://flo.uri.sh/visualisation/26513009/embed" style="width:100%;height:600px;" frameborder="0" scrolling="no"></iframe>
 Here we can already identify main routes of animosity between clusters. We can notice two main sources who tend to be more negative in general: Politics and Informative.
 
 But is it always the case?
 Of course, negativity is not a fixed quantity. It evolves dynamically; as a result, we can track its evolution across the duration of our dataset. 
 
 [Fig 1.5 Cluster evolution]
-
+<iframe src="https://flo.uri.sh/visualisation/26805661/embed" title="Monthly negativity ratios by cluster" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;"> </iframe>
 Despite fluctuations, this confirms that Politics and Informative remain top actors throughout.
 
 Can we find, in a similar way, the top actors? That is - individual subreddits that consistently output high negativity?
