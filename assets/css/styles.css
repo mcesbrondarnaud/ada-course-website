@@ -324,3 +324,41 @@ section {
 }
 
 
+/* HERO: force white text */
+.video-content,
+.video-content h1,
+.video-content .top-title {
+  color: #fff !important;
+}
+
+/* If your overlay is not dark enough, keep this */
+.video-overlay {
+  background: rgba(0, 0, 0, 0.45);
+}
+
+/* Re-apply your custom "Let's Dive Into It" button */
+.btn-custom {
+  display: inline-block;
+  padding: 12px 26px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+
+  /* Put here the SAME colors you had before */
+  background-color: #800020;   /* example: your burgundy */
+  color: #fff;
+  border: 2px solid #800020;
+
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.btn-custom:hover {
+  color: #fff;
+  opacity: 0.92;
+  transform: translateY(-1px);
+}
+
+/* Prevent Bootstrap from turning links blue */
+.video-content a {
+  color: inherit;
+}
