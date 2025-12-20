@@ -1,4 +1,4 @@
-🧠 Abstract — Tired of the Negativity?
+🧠 Abstract — Tired of the Negativity ?
 
 If you moderate or participate in an online community, you’ve felt it.
 
