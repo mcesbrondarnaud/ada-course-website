@@ -36,6 +36,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
           <li class="nav-item"><a class="nav-link me-lg-3" href="#page-top">Home</a></li>
+          <li class="nav-item"><a class="nav-link me-lg-3" href="#abstract">Abstract</a></li>
           <!-- <li class="nav-item"><a class="nav-link me-lg-3" href="#introduction">Introduction</a></li> -->
           <!-- <li class="nav-item"><a class="nav-link me-lg-3" href="#data_presentation">Data Presentation</a></li> -->
           <!-- <li class="nav-item"><a class="nav-link me-lg-3" href="#story">The Story</a></li> -->
@@ -90,6 +91,12 @@
 
       <!-- Main (WIDER) -->
       <main class="col-md-9 col-lg-10">
+
+        <!-- ABSTRACT -->
+        <section id="abstract" class="section py-5">
+          <h2>Abstract</h2>
+          <div id="abstract-md"></div>
+        </section>
 
         <!-- OUR ANALYSIS -->
         <section id="our_analysis" class="section py-5">
@@ -234,6 +241,9 @@
   <script>
     fetch("contents/introduction.md").then(r => r.text()).then(t => {
       document.getElementById("introduction-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/abstract.md").then(r => r.text()).then(t => {
+      document.getElementById("abstract-md").innerHTML = marked.parse(t);
     });
     fetch("contents/data_presentation.md").then(r => r.text()).then(t => {
       document.getElementById("data_presentation-md").innerHTML = marked.parse(t);
