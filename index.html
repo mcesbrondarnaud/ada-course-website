@@ -75,11 +75,12 @@
             <li><a class="nav-link" href="#data_presentation">Data Presentation</a></li>
             <li><a class="nav-link" href="#story">The Story</a></li>
             <li><a class="nav-link" href="#our_analysis">Our Analysis</a></li>
-            <li><a class="nav-link" href="#part1final">Part 1</a></li>
-            <li><a class="nav-link" href="#part2final">Part 2</a></li>
-            <li><a class="nav-link" href="#part3final">Part 3</a></li>
-            <li><a class="nav-link" href="#part4final">Part 4</a></li>
-            <li><a class="nav-link" href="#part5final">Part 5</a></li>
+            <li><a class="nav-link" href="#part1f">Part 1</a></li>
+            <li><a class="nav-link" href="#part2f">Part 2</a></li>
+            <li><a class="nav-link" href="#part3f">Part 3</a></li>
+            <li><a class="nav-link" href="#part4f">Part 4</a></li>
+            <li><a class="nav-link" href="#part5f">Part 5</a></li>
+            <li><a class="nav-link" href="#part6f">Part 6</a></li>
             <li><a class="nav-link" href="#conclusion">Conclusion</a></li>
             <li><a class="nav-link" href="#reference">Reference</a></li>
             <li><a class="nav-link" href="#team">Team</a></li>
@@ -115,28 +116,33 @@
         </section>
 
         <!-- PART 1 -->
-        <section id="part1final" class="section py-5">
-          <div id="part1final-md"></div>
+        <section id="part1f" class="section py-5">
+          <div id="part1f-md"></div>
         </section>
 
         <!-- PART 2 -->
-        <section id="part2final" class="section py-5">
-          <div id="part2final-md"></div>
+        <section id="part2f" class="section py-5">
+          <div id="part2f-md"></div>
         </section>
 
         <!-- PART 3 -->
-        <section id="part3final" class="section py-5">
-          <div id="part3final-md"></div>
+        <section id="part3f" class="section py-5">
+          <div id="part3f-md"></div>
         </section>
 
         <!-- PART 4 -->
-        <section id="part4final" class="section py-5">
-          <div id="part4final-md"></div>
+        <section id="part4f" class="section py-5">
+          <div id="part4f-md"></div>
         </section>
 
         <!-- PART 5 -->
-        <section id="part5final" class="section py-5">
-          <div id="part5final-md"></div>
+        <section id="part5f" class="section py-5">
+          <div id="part5f-md"></div>
+        </section>
+
+        <!-- PART 6 -->
+        <section id="part6f" class="section py-5">
+          <div id="part6f-md"></div>
         </section>
         
         <!-- CONCLUSION -->
@@ -256,20 +262,23 @@
     fetch("contents/our_analysis.md").then(r => r.text()).then(t => {
       document.getElementById("our_analysis-md").innerHTML = marked.parse(t);
     });
-    fetch("contents/part1final.md").then(r => r.text()).then(t => {
-      document.getElementById("part1final-md").innerHTML = marked.parse(t);
+    fetch("contents/part1f.md").then(r => r.text()).then(t => {
+      document.getElementById("part1f-md").innerHTML = marked.parse(t);
     });
-    fetch("contents/part2final.md").then(r => r.text()).then(t => {
-      document.getElementById("part2final-md").innerHTML = marked.parse(t);
+    fetch("contents/part2f.md").then(r => r.text()).then(t => {
+      document.getElementById("part2f-md").innerHTML = marked.parse(t);
     });
-    fetch("contents/part3final.md").then(r => r.text()).then(t => {
-      document.getElementById("part3final-md").innerHTML = marked.parse(t);
+    fetch("contents/part3f.md").then(r => r.text()).then(t => {
+      document.getElementById("part3f-md").innerHTML = marked.parse(t);
     });
-    fetch("contents/part4final.md").then(r => r.text()).then(t => {
+    fetch("contents/part4f.md").then(r => r.text()).then(t => {
       document.getElementById("part4final-md").innerHTML = marked.parse(t);
     });
-    fetch("contents/part5final.md").then(r => r.text()).then(t => {
-      document.getElementById("part5final-md").innerHTML = marked.parse(t);
+    fetch("contents/part5f.md").then(r => r.text()).then(t => {
+      document.getElementById("part5f-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/part6f.md").then(r => r.text()).then(t => {
+      document.getElementById("part6f-md").innerHTML = marked.parse(t);
     });
     fetch("contents/conclusion.md").then(r => r.text()).then(t => {
       document.getElementById("conclusion-md").innerHTML = marked.parse(t);
