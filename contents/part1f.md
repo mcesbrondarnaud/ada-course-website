@@ -6,12 +6,12 @@ So to start we need to get to know our surroundings: how are communities shaped?
 Luckily we already have a dataset of embeddings, which translate main thematics of subreddits into a mathematical space. Through this, by exploring the similarity between these vectors, we can reconstruct communities of subreddits.
 
 [Fig 1.1 Clustering]
-<iframe src='https://flo.uri.sh/visualisation/26887294/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/26887294/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 Alright! This colorful map shows the high diversity of the reddit landscape; some clusters are small and tightly packed, with specific themes, whereas others spread across wider topics. To avoid getting lost in this high variety of communities, we have grouped them into a smaller number of higher-level clusters, which will shape our exploration.
 
 [Fig 1.2 Clusters & HLC doghnut] 
-<iframe src='https://flo.uri.sh/visualisation/26558499/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/26558499/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 3 main communities pop-out: one ‘Informative’ a bit mixed, and two more focused (‘Gaming’ and Politics’. 
 These categories will help us track where negativity concentrates.
@@ -21,7 +21,7 @@ Now we’ve identified main communities, let’s focus on negativity. Negativity
 First, let’s identify the highways of negativity: where can we find the main flows of negative sentiment?
 
 [Fig 1.3 Intra/extra pie charts]
-<iframe src='https://flo.uri.sh/visualisation/26649034/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/26649034/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 We can see that some clusters tend to keep their conflicts at home. It is especially the case for Sports, Gaming and Technology. We can speculate that these specific thematic clusters have internal disagreements about shared topics. On the other hand, some clusters tend to be more aggressive and distribute negativity outwards.
 Let’s try and characterize these main flows between different clusters:
@@ -39,6 +39,6 @@ Despite fluctuations, this confirms that Politics and Informative remain top act
 Can we find, in a similar way, the top actors? That is - individual subreddits that consistently output high negativity?
 
 [Fig 1.6 Top 5 evolution]
-<iframe src='https://flo.uri.sh/visualisation/26553662/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/26553662/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 Now we have an idea of how our surroundings and their negativity are shaped, we can deep-dive into studying when negativity becomes overwhelming.
