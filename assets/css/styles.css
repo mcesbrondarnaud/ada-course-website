@@ -233,17 +233,6 @@ section {
 }
 
 
-.section { background: #fff; }  /* default white */
-
-#data_presentation,
-#part1final,
-#part3final,
-#part5final,
-#reference {
-  background: #f7f2f2;
-}
-
-
 /* --- Side TOC (no lines) --- */
 #sideToc { padding-top: 10px; }
 
