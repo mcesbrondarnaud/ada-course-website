@@ -1,8 +1,8 @@
-I. 🧭 Know Your Surroundings: What Kind of Neighborhood Are You In?
+# I. 🧭 Know Your Surroundings: What Kind of Neighborhood Are You In?
 
 Defense starts with situational awareness: before defending yourself, you need context. Some subreddits are isolated villages. Others sit on busy crossroads where negativity travels fast.
 So to start we need to get to know our surroundings: how are communities shaped? And where are the main channels where negativity travels?
-1. Clustering: getting to know your neighbors
+### 1. Clustering: getting to know your neighbors
 Luckily we already have a dataset of embeddings, which translate main thematics of subreddits into a mathematical space. Through this, by exploring the similarity between these vectors, we can reconstruct communities of subreddits.
 
 [Fig 1.1 Clustering]
@@ -16,7 +16,7 @@ Alright! This colorful map shows the high diversity of the reddit landscape; som
 3 main communities pop-out: one ‘Informative’ a bit mixed, and two more focused (‘Gaming’ and Politics’. 
 These categories will help us track where negativity concentrates.
 
-2. Negativity: The big picture
+### 2. Negativity: The big picture
 Now we’ve identified main communities, let’s focus on negativity. Negativity is characterised by links of negative sentiment being sent from one source subreddit to one target subreddit.
 First, let’s identify the highways of negativity: where can we find the main flows of negative sentiment?
 
