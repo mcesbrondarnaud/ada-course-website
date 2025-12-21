@@ -1,4 +1,4 @@
-# 🛡️ VI. Defending the Community: What Actually Reduces Negativity?
+# 🛡️ VIII. Defending the Community: What Actually Reduces Negativity?
 We’re starting to get a pretty solid understanding of negativity flows; both origins and high spreading points. So we can finally start to think about how to reduce and deflect it.
 Stopping negativity may seem easy — just censor the sources. Removing them kills the peaks already.
 
