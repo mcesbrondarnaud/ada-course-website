@@ -1,4 +1,4 @@
-# Epilogue: The Morning After
+# Epilogue - The Morning After
 
 The storm didn't vanish instantly. But without fuel, the fire burned out. The jagged red line on the War Room screen began to fall, returning to the green baseline.
 
