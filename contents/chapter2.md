@@ -42,11 +42,9 @@ Lisa doesn’t need the explanation.
 
 The pies transition into a chord diagram.
 
+*“Now we remove internal negativity entirely,”* the analyst says. *“This shows only hostility between clusters, without any notion of escalation.”*
+
 <iframe src="https://flo.uri.sh/visualisation/26513009/embed" style="width:100%;height:600px;" frameborder="0" scrolling="no"></iframe>
-
-*“Now we remove internal negativity entirely,”* the analyst says.
-
-*“This shows only hostility between clusters, without any notion of escalation.”*
 
 Lisa traces the thick arcs.
 
@@ -59,18 +57,14 @@ He continues:
 - A small number of routes dominate.
 - Informative and Politics connect to almost everyone.
 
-*“This tells us something important,”* he says.
-
-*“Conflicts don’t appear randomly. They grow along pre-existing hostility highways.”*
+*“This tells us something important,”* he says. *“Conflicts don’t appear randomly. They grow along pre-existing hostility highways.”*
 
 
 ### Who Dominates the Noise Over Time
 
 Before Lisa can reply, the analyst brings up the next figure.
 
-*“This is still not conflict,”* he says.
-
-*“This is hostility volume over time.”*
+*“This is still not conflict,”* he says. *“This is hostility volume over time.”*
 
 <iframe src="https://flo.uri.sh/visualisation/26805661/embed" title="Monthly negativity ratios by cluster" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;"> </iframe> Despite fluctuations, this confirms that Politics and Informative remain top actors throughout.
 
@@ -80,11 +74,9 @@ Lisa watches the leaders swap, then settle.
 
 *“They keep coming back,”* she murmurs.
 
-*“Yes,”* the analyst replies.
+*“Yes,”* the analyst replies. *“Over the entire timeline, Informative and Politics consistently dominate hostility output.”*
 
-*“Over the entire timeline, Informative and Politics consistently dominate hostility output.”*
-
-Other clusters spike occasionally - Gaming, Entertainment, Lifestyle - but never sustain dominance.
+Other clusters spike occasionally, like Gaming, Entertainment or Lifestyle but never sustain dominance.
 
 *“This confirms what we suspected,”* he adds.
 
