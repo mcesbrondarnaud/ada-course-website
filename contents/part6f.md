@@ -62,6 +62,7 @@ The heterogeneous exposure model provided the most robust fit and is the one we 
 ---
 ### Does the model actually work?
 [**Fig 6.1 — Observed vs. predicted negativity over time**]
+<iframe src='https://flo.uri.sh/visualisation/26916498/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 The figure compares predicted negativity ratios with the observed ones.
 
@@ -87,6 +88,7 @@ Some clusters are highly sensitive: when exposed to negativity, their own hostil
 
 To explore this, we visualize the exposure sensitivity of each cluster.
 [**Fig 6.2 — Cluster-specific sensitivity to exposure**]
+<iframe src='https://flo.uri.sh/visualisation/26910918/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 Only a few clusters show a statistically significant reaction to incoming negativity, but these clusters are the ones with the strongest propagation power. This is sufficient to explain much of the global dynamics observed earlier.
 In other words:
