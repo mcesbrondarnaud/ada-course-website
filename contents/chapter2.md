@@ -17,7 +17,7 @@ The first charts appear.
       <div class="card p-3 shadow-sm">
         <div class="ratio" style="--bs-aspect-ratio: 56.25%;">
           <iframe
-            src="[https://flo.uri.sh/visualisation/26513009/embed](https://flo.uri.sh/visualisation/26649034/embed)"
+            src="[https://flo.uri.sh/visualisation/26649034/embed]"
             title="Negativity flows"
             frameborder="0"
             scrolling="no"
