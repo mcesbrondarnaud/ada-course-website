@@ -1,5 +1,18 @@
 # I. 🧭 Know Your Surroundings: What Kind of Neighborhood Are You In?
 
+<details>
+<summary><strong>Technical File: How we detect negativity spikes</strong></summary>
+
+### Method
+- We aggregate negativity weekly.
+- We compute rolling z-scores.
+- A spike is detected when z > 2.
+
+### Why this works
+This approach normalizes for activity growth and avoids false positives.
+
+</details>
+
 Defense starts with situational awareness: before defending yourself, you need context. Some subreddits are isolated villages. Others sit on busy crossroads where negativity travels fast.
 So to start we need to get to know our surroundings: how are communities shaped? And where are the main channels where negativity travels?
 ### 1. Clustering: getting to know your neighbors
