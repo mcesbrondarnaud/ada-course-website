@@ -1,4 +1,4 @@
-# Chapter V: The Early Warning System (Modeling the Spread)
+# Chapter V - The Early Warning System (Modeling the Spread)
 Lisa looks at the team. *"We know where the hostility comes from. We know it forms echo chambers. But knowing the past isn't enough. I need to know if we can see the next wave coming."*
 
 The lead analyst nods. *"The Holy Grail of data science: Forecasting."*
