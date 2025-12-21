@@ -37,7 +37,6 @@ Lisa exhales slowly.
 
 
 ### The Same Ordering, Event After Event
-Fig 3.2 — Distribution of Negativity per Group
 
 ![Distribution of Negativity per Group](/ada-course-website/assets/img/image12.jpeg)
 
@@ -63,7 +62,6 @@ Lisa tilts her head.
 
 
 ### What Changes When a Source Ignites
-Fig 3.3 — Activation of Neighbor-to-Neighbor (n2n) Chambers
 
 ![Activation of Neighbor-to-Neighbor (n2n) Chambers](/ada-course-website/assets/img/image11.jpeg)
 
@@ -107,7 +105,6 @@ Lisa frowns.
 
 
 ### Are Waves Reusing the Same Cast?
-Fig 3.4 — Similarity Across Peaks (Sources & Neighbors)
 
 ![Similarity Across Peaks (Sources & Neighbors)](/ada-course-website/assets/img/image10.jpeg)
 
