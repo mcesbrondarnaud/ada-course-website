@@ -67,3 +67,4 @@ The model revealed that the reaction to exposure is not uniform.
 
 
 *"These few sensitive communities," the analyst concludes, "are the engines of war. They amplify the conflict and drive the global dynamics we see on the map."*
+---
