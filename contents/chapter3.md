@@ -132,8 +132,7 @@ Lisa sighs.
 
 
 ### Where Echo Chambers Live
-Fig 3.5 — t-SNE Animation of Negativity by Group
-
+<iframe src='https://flo.uri.sh/visualisation/26634242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 The embedding map from Chapter I returns — now animated.
 
