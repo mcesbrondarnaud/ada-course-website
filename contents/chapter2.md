@@ -35,7 +35,7 @@ Lisa doesn’t need the explanation.
 
 *“They do both.”*
 
-*“Exactly. They are tense internally and export hostility outward.”*
+*“Exactly. They are tense internally and export hostility outward.”* <br><br><br>
 
 
 ### Where Hostility Travels
@@ -192,5 +192,5 @@ Lisa looks toward the next set of dashboards.
 
 *“And now,”* she says quietly, *“I want to understand why some weeks explode… and others don’t.”*
 
-
+---
 
