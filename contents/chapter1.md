@@ -4,42 +4,31 @@
 To understand the battlefield, the ADAvengers used **Embeddings** to project every subreddit onto a 2D map based on user overlap. Communities that share users are pulled close together; enemies or strangers are pushed apart.
 
 For each local region, clusters are extracted automatically using a k-nearest neighbors approach. These low-level clusters are then grouped into broad domains.
+
 <section class="container my-5">
-  <div class="row g-4 align-items-start">
+<div class="row g-4 align-items-start">
 
-    <!-- CHART -->
-    <div class="col-12 col-lg-7">
-      <div class="card p-3">
-        <div class="text-center">
-          <iframe
-            src="https://flo.uri.sh/visualisation/26887294/embed"
-            title="Reddit map of subreddits"
-            class="flourish-embed-iframe"
-            frameborder="0"
-            scrolling="no"
-            style="width:70%;height:600px;"
-            sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
-          </iframe>
-        </div>
-      </div>
-    </div>
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src='https://flo.uri.sh/visualisation/26887294/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+</div>
+</div>
 
-    <!-- INSIGHTS BOX -->
-    <div class="col-12 col-lg-5">
-      <div class="card p-4 shadow-sm h-100">
-        <h4 class="mb-3">The Analysis</h4>
-        <p class="mb-3">
-          This is the satellite view of Reddit. You can clearly see the “continents” forming:
-        </p>
-        <ul class="mb-0">
-          <li><strong>The Gaming Archipelago:</strong> a massive, dense cluster of interconnected games.</li>
-          <li><strong>The Political Front:</strong> highly active, often isolated from the more casual zones.</li>
-          <li><strong>The Neutral Zones:</strong> hobby and lifestyle communities floating on the periphery.</li>
-        </ul>
-      </div>
-    </div>
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>The Analysis:</h4>
 
-  </div>
+This is the satellite view of Reddit. You can clearly see the "Continents" forming:
+<ul>
+<li> **The Gaming Archipelago:** A massive, dense cluster of interconnected games.</li>
+<li> **The Political Front:** Highly active, often isolated from the more casual zones.</li>
+<li> **The Neutral Zones:** Hobby and Lifestyle communities floating on the periphery.</li>
+</ul>
+
+</div>
+</div>
+
+</div>
 </section>
 
 
