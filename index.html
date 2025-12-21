@@ -117,6 +117,11 @@
           <div id="part1f-md"></div>
         </section>
 
+        <!-- PART 1 bis -->
+        <section id="part1fbis" class="section py-5">
+          <div id="part1fbis-md"></div>
+        </section>
+
         <!-- PART 2 -->
         <section id="part2f" class="section py-5">
           <div id="part2f-md"></div>
@@ -264,6 +269,9 @@
     });
     fetch("contents/part1f.md").then(r => r.text()).then(t => {
       document.getElementById("part1f-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/part1fbis.md").then(r => r.text()).then(t => {
+      document.getElementById("part1fbis-md").innerHTML = marked.parse(t);
     });
     fetch("contents/part2f.md").then(r => r.text()).then(t => {
       document.getElementById("part2f-md").innerHTML = marked.parse(t);
