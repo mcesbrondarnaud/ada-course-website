@@ -44,6 +44,29 @@ This structure reveals an important nuance: the most thematically precise commun
 *"But a satellite view is too messy for strategy," Lisa argues. "I need to know the chain of command."
 "Then look at the Hierarchy,"* the analyst replies.
 
+
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src='https://flo.uri.sh/visualisation/26558499/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+<h4>The Insight:</h4>
+
+This visualization organizes the chaos into clear administrative districts. The size of each circle represents the volume of posts. We can instantly see the weight of the Informative, Politics, and Sports clusters compared to smaller niches. This is the board upon which the game is played.
+
+</div>
+</div>
+
+</div>
+</section>
+
+
 <iframe src='https://flo.uri.sh/visualisation/26558499/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 **The Insight:** This visualization organizes the chaos into clear administrative districts. The size of each circle represents the volume of posts. We can instantly see the weight of the Informative, Politics, and Sports clusters compared to smaller niches. This is the board upon which the game is played.
