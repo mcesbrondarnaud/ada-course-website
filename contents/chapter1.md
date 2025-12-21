@@ -18,7 +18,7 @@ For each local region, clusters are extracted automatically using a k-nearest ne
 <div class="card p-4 shadow-sm h-100">
 This 2D projection is a *semantic* map of Reddit communities (built from embeddings).  
 Subreddits that share similar topics are pulled closer together, while more distinct communities drift apart.  
-The figure reveals *thematic neighborhoods*:
+The figure reveals <strong>thematic neighborhoods</strong>:
 <ul>
 <li> <strong>A large gaming region </strong> where many game-related subreddits appear tightly grouped (e.g., *gaming*, specific titles, platforms, esports).</li>
 <li> <strong>A distinct politics/news region</strong> where political subreddits cluster together and often sit apart from entertainment or hobby spaces (e.g., <strong>politics</strong>, <strong>worldnews</strong>, ideology-leaning communities).</li>
