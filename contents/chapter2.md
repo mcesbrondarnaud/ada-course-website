@@ -9,7 +9,6 @@ The analyst nods.
 *“To answer that, we have to start before open conflict. Hostility leaves footprints long before it explodes.”*
 
 ### Background Hostility: The Constant Pressure
-Fig 2.1 — Intra / Extra Negative Links per Cluster
 The first charts appear.
 
 <iframe src='https://flo.uri.sh/visualisation/26649034/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
@@ -40,7 +39,6 @@ Lisa doesn’t need the explanation.
 
 
 ### Where Hostility Travels
-Fig 2.2 — Extra-Cluster Negative Link Flows
 
 The pies transition into a chord diagram.
 
@@ -67,7 +65,6 @@ He continues:
 
 
 ### Who Dominates the Noise Over Time
-Fig 2.3 — Cluster Hostility Bar Chart Race
 
 Before Lisa can reply, the analyst brings up the next figure.
 
@@ -113,7 +110,6 @@ Lisa nods.
 
 
 ### The Conflict Network
-Fig 2.4 — Network Graph of Conflicts with Arrows
 
 <iframe src="/ada-course-website/contents/graphA.html"
         style="width:100%;height:600px;"
@@ -136,8 +132,6 @@ Other clusters appear mostly as targets.
 
 *“These are recurrent confrontations.”*
 
-Fig 2.5 — Major Conflict Pairs
-
 He gestures to the major conflict pairs.
 
 <iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
@@ -146,7 +140,6 @@ He gestures to the major conflict pairs.
 
 
 ### Who Starts the Fights
-Fig 2.6 — Main Sources of Conflicts
 
 The next chart simplifies everything.
 
@@ -166,7 +159,6 @@ All other clusters contribute marginally.
 *“The clusters that dominate hostility are also the ones that escalate it. These are the ones we need to be really careful about, they are the main fighters.”*
 
 ### Who Bears the Cost
-Fig 2.7 — Conflict Distribution Chart 
 
 The final figures appear together.
 
