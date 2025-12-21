@@ -32,8 +32,6 @@ The data reveals a stark truth about Reddit warfare.
 
 ![Image 6](/ada-course-website/assets/img/image6.jpeg)
 
-<img src="img/image6.jpeg" class="img-small" alt="Image 6">
-
 
 <details>
 <summary><strong>Technical File: Measuring the Fallout</strong></summary>
