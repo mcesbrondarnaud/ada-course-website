@@ -13,6 +13,8 @@ The analyst nods.
 
 ### A Persistent Gap
 
+> We detect 21 spikes of negativity looking at the evolution of the ratio per week.
+
 The first figure fills the screen: three curves, steady, separated.
 
 <iframe src='https://flo.uri.sh/visualisation/26805788/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
@@ -89,7 +91,7 @@ He taps the histogram.
 
 Lisa nods.
 
-*“This is the moment echo chambers switch on.”<br><br><br>
+*“This is the moment echo chambers switch on.”*<br><br><br>
 
 ### Who Dominates the Emotional Load
 
@@ -137,7 +139,7 @@ Lisa sighs.
 ### Where Echo Chambers Live
 <iframe src='https://flo.uri.sh/visualisation/26634242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-The embedding map from Chapter I returns — now animated.
+The embedding map from Chapter I returns — now animated (and adding a few points for the others).
 
 *“Each dot is a community,”* the analyst says. *“Color indicates its role during a wave.”*
 
