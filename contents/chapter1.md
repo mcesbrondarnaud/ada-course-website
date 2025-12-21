@@ -16,20 +16,22 @@ For each local region, clusters are extracted automatically using a k-nearest ne
 
 <div class="col-12 col-lg-5">
 <div class="card p-4 shadow-sm h-100">
-This is the satellite view of Reddit. You can clearly see the "Continents" forming:
+This 2D projection is a *semantic* map of Reddit communities (built from embeddings).  
+Subreddits that share similar topics are pulled closer together, while more distinct communities drift apart.  
+The figure reveals *thematic neighborhoods*:
 <ul>
-<li> <strong>The Gaming Archipelago:</strong> A massive, dense cluster of interconnected games.</li>
-<li> <strong>The Political Front:</strong> Highly active, often isolated from the more casual zones.</li>
-<li> <strong>The Neutral Zones:</strong> Hobby and Lifestyle communities floating on the periphery.</li>
+<li> <strong>A large gaming region </strong> where many game-related subreddits appear tightly grouped (e.g., *gaming*, specific titles, platforms, esports).</li>
+<li> <strong>A distinct politics/news region</strong> where political subreddits cluster together and often sit apart from entertainment or hobby spaces (e.g., *politics*, *worldnews*, ideology-leaning communities).</li>
+<li> <strong>Several medium-sized thematic pockets</strong> such as sports or fantasy/science-fiction communities, which form recognizable islands without dominating the map.</li>
+<li> <strong>A long tail of smaller niches</strong> (hobbies, local interests, specialized topics) scattered around the periphery.</li>
 </ul>
 
+The structure is not random — Reddit is organized into clear thematic neighborhoods, with a few large regions and many smaller “islands”.
 </div>
 </div>
 
 </div>
 </section>
-
-
 
 
 This structure reveals an important nuance: the most thematically precise communities tend to form **isolated islands**, while broader themes occupy the middle ground, bridging multiple regions.
