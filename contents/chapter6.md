@@ -15,9 +15,13 @@ Lisa’s finger hovers over the keyboard. Her subreddit is burning. The instinct
 - **The Counter-Attack (Aggressive Response):** When moderators or communities retaliate with hostility, the conflict duration extends and the intensity spikes. You aren't putting out the fire; you are pouring gasoline on it.
 - **The Shield Wall (Retreat + Neutral):** The strategy of "Retreat" (reducing activity) combined with "Neutrality" (refusing to engage in toxic comments) results in the fastest de-escalation.
 
+<details>
+<summary><strong>Technical File: Measuring the Fallout</strong></summary>
 
-[Technical File: Measuring the Fallout]
-(Click to expand) We categorized responses using Sentiment Analysis on the victim's comments and measured "Success" as the reduction in hostile incoming links over the subsequent 7 days.
+  We categorized responses using Sentiment Analysis on the victim's comments and measured "Success" as the reduction in hostile incoming links over the subsequent 7 days.
+</details>
+
+
 "It's the oldest rule of the internet," the analyst whispers. "Don't Feed The Trolls. But now, we have the math to prove it."
 Lisa looks at the screen. The math is undeniable. Fighting back satisfies the ego but destroys the subreddit. Silence saves the community.
 She takes a deep breath... and takes her hands off the keyboard.
