@@ -100,6 +100,52 @@
       <!-- Main (WIDER) -->
       <main class="col-md-9 col-lg-10">
 
+        <!-- Introduction -->
+        <section id="introduction" class="section py-5">
+          <div id="introduction-md"></div>
+        </section>
+
+        <!-- CHAPTER 1 -->
+        <section id="chapter1" class="section py-5">
+          <div id="chapter1-md"></div>
+        </section>
+
+        <!-- CHAPTER 2 -->
+        <section id="chapter2" class="section py-5">
+          <div id="chapter2-md"></div>
+        </section>
+
+        <!-- CHAPTER 3 -->
+        <section id="chapter3" class="section py-5">
+          <div id="chapter3-md"></div>
+        </section>
+
+        <!-- CHAPTER 4 -->
+        <section id="chapter4" class="section py-5">
+          <div id="chapter4-md"></div>
+        </section>
+
+        <!-- CHAPTER 5 -->
+        <section id="chapter5" class="section py-5">
+          <div id="chapter5-md"></div>
+        </section>
+
+        <!-- CHAPTER 6 -->
+        <section id="chapter6" class="section py-5">
+          <div id="chapter6-md"></div>
+        </section>
+
+        <!-- EPILOGUE -->
+        <section id="epilogue" class="section py-5">
+          <div id="epilogue-md"></div>
+        </section>
+
+        
+
+
+
+
+        
         <!-- ABSTRACT -->
         <section id="abstract" class="section py-5">
           <h2>Abstract</h2>
@@ -254,6 +300,27 @@
   <script>
     fetch("contents/introduction.md").then(r => r.text()).then(t => {
       document.getElementById("introduction-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/chapter1.md").then(r => r.text()).then(t => {
+      document.getElementById("chapter1-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/chapter2.md").then(r => r.text()).then(t => {
+      document.getElementById("chapter2-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/chapter3.md").then(r => r.text()).then(t => {
+      document.getElementById("chapter3-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/chapter4.md").then(r => r.text()).then(t => {
+      document.getElementById("chapter4-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/chapter5.md").then(r => r.text()).then(t => {
+      document.getElementById("chapter5-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/chapter6.md").then(r => r.text()).then(t => {
+      document.getElementById("chapter6-md").innerHTML = marked.parse(t);
+    });
+    fetch("contents/epilogue.md").then(r => r.text()).then(t => {
+      document.getElementById("epilogue-md").innerHTML = marked.parse(t);
     });
     fetch("contents/abstract.md").then(r => r.text()).then(t => {
       document.getElementById("abstract-md").innerHTML = marked.parse(t);
