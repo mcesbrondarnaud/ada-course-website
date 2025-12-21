@@ -44,7 +44,6 @@ Comparing the similarity for top sources/neighbors, we see that most peaks share
 We can visualize this nicely looking at negativity ratio evolution of each subreddit:
 
 [Fig 2.5? tSNE with neg ratios]
-<iframe src="https://flo.uri.sh/visualisation/26634242/embed" title="PCA / t-SNE projection" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:80%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"> </iframe>
 The sources + neighbors appear to be spatially close, and negativity evolution supports our observation of echochambers.
 
 
