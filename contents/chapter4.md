@@ -43,11 +43,8 @@ A major challenge was mapping geopolitical events to social sentiment.
 * **The Solution (AvgTone):** We settled on the `AvgTone` metric, which quantifies the emotional tone of the reporting journalist. This proved to be a stronger proxy for the "public mood" than state-level stability metrics.
 **3. Normalization: The Rolling Z-Score**
 To handle the non-stationarity of Reddit (where user volume grows significantly over years), raw counts of hostile comments were unusable. We applied a **Rolling Z-Score** normalization with a 2-month window.
-For a given week $t$, the standardized hostility score $Z_t$ is calculated as:
-**Z<sub>t</sub> = (x<sub>t</sub> − μ<sub>[t−w, t]</sub>) / σ<sub>[t−w, t]</sub>**
-
-$$Z_t = \frac{x_t - \mu_{[t-w, t]}}{\sigma_{[t-w, t]}}$$
-Where $x_t$ is the raw hostility volume, and $\mu$ and $\sigma$ are the mean and standard deviation over the rolling window $w$. We further filtered for relevance by excluding weeks falling below the 50th percentile in activity volume, preventing low-traffic threads from producing artificial spikes.
+For a given week **t**, the standardized hostility score **Z<sub>t</sub>** is calculated as: **Z<sub>t</sub> = (x<sub>t</sub> − μ<sub>[t−w, t]</sub>) / σ<sub>[t−w, t]</sub>**
+Where **x<sub>t</sub>** is the raw hostility volume, and $\mu$ and $\sigma$ are the mean and standard deviation over the rolling window $w$. We further filtered for relevance by excluding weeks falling below the 50th percentile in activity volume, preventing low-traffic threads from producing artificial spikes.
 **4. Statistical Inference: T-Tests & Granger Causality**
 To mathematically validate the link between GDELT (Time series $X$) and Reddit Hostility (Time series $Y$), we employed two tests:
 * **Regression T-Tests:** We modeled Reddit hostility as a function of GDELT tone. The heatmap displayed above represents the *t-statistics* of the regression coefficients. A high absolute t-statistic implies that the GDELT variable has a statistically significant non-zero effect on Reddit hostility ($p < 0.05$).
