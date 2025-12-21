@@ -16,8 +16,6 @@ For each local region, clusters are extracted automatically using a k-nearest ne
 
 <div class="col-12 col-lg-5">
 <div class="card p-4 shadow-sm h-100">
-<h4>The Analysis:</h4>
-
 This is the satellite view of Reddit. You can clearly see the "Continents" forming:
 <ul>
 <li> <strong>The Gaming Archipelago:</strong> A massive, dense cluster of interconnected games.</li>
@@ -32,13 +30,7 @@ This is the satellite view of Reddit. You can clearly see the "Continents" formi
 </section>
 
 
-(Insert Fig 1.1: Reddit Embeddings Map)
-<iframe src='https://flo.uri.sh/visualisation/26887294/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-**The Analysis:** This is the satellite view of Reddit. You can clearly see the "Continents" forming:
-- **The Gaming Archipelago:** A massive, dense cluster of interconnected games.
-- **The Political Front:** Highly active, often isolated from the more casual zones.
-- **The Neutral Zones:** Hobby and Lifestyle communities floating on the periphery.
 
 This structure reveals an important nuance: the most thematically precise communities tend to form **isolated islands**, while broader themes occupy the middle ground, bridging multiple regions.
 *"But a satellite view is too messy for strategy," Lisa argues. "I need to know the chain of command."
@@ -56,8 +48,6 @@ This structure reveals an important nuance: the most thematically precise commun
 
 <div class="col-12 col-lg-5">
 <div class="card p-4 shadow-sm h-100">
-<h4>The Insight:</h4>
-
 This visualization organizes the chaos into clear administrative districts. The size of each circle represents the volume of posts. We can instantly see the weight of the Informative, Politics, and Sports clusters compared to smaller niches. This is the board upon which the game is played.
 
 </div>
@@ -66,7 +56,3 @@ This visualization organizes the chaos into clear administrative districts. The 
 </div>
 </section>
 
-
-<iframe src='https://flo.uri.sh/visualisation/26558499/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
-**The Insight:** This visualization organizes the chaos into clear administrative districts. The size of each circle represents the volume of posts. We can instantly see the weight of the Informative, Politics, and Sports clusters compared to smaller niches. This is the board upon which the game is played.
