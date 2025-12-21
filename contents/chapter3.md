@@ -33,7 +33,7 @@ Lisa exhales slowly.
 
 *“So waves don’t create hostility.”*
 
-*“They reveal it.”*
+*“They reveal it.”*<br><br><br>
 
 
 ### The Same Ordering, Event After Event
@@ -58,7 +58,7 @@ Lisa tilts her head.
 
 *“So when a wave happens…”*
 
-*“…it happens inside an already polarized structure,”* he finishes.
+*“…it happens inside an already polarized structure,”* he finishes.<br><br><br>
 
 
 ### What Changes When a Source Ignites
@@ -86,7 +86,7 @@ He taps the histogram.
 
 Lisa nods.
 
-*“This is the moment echo chambers switch on.”*
+*“This is the moment echo chambers switch on.”
 
 ### Who Dominates the Emotional Load
 
@@ -128,7 +128,7 @@ Lisa sighs.
 
 *“So we’re not chasing ghosts.”*
 
-*“No,”* he replies. *“We’re observing a system with memory.”*
+*“No,”* he replies. *“We’re observing a system with memory.”*<br><br><br>
 
 
 ### Where Echo Chambers Live
@@ -147,7 +147,7 @@ Lisa watches clusters light up together.
 
 He pauses the animation.
 
-*“This confirms that echo chambers are not abstract. They are anchored in Reddit’s structural geography.”*
+*“This confirms that echo chambers are not abstract. They are anchored in Reddit’s structural geography.”*<br><br><br>
 
 
 ### The Amplifiers
@@ -162,7 +162,7 @@ Lisa isn’t surprised.
 
 *“Same ideological zones again.”*
 
-*“Yes,”* he says. *“They don’t just participate in waves. They shape their intensity and reach.”*
+*“Yes,”* he says. *“They don’t just participate in waves. They shape their intensity and reach.”*<br><br><br>
 
 
 ### What Chapter III Tells Us
@@ -183,4 +183,4 @@ The analyst turns to the final set of files.
 
 *“That’s what Chapter IV is about.”*
 
-
+---
