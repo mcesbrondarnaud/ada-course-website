@@ -113,33 +113,6 @@ Beyond correlation, we analyze **temporal lags** to identify the direction of in
 
 
 
-<details>
-<summary><strong>Technical File: The Causality Test</strong></summary>
-
-**1. Data Engineering & The GDELT 2.0 Shift**
-Processing the GDELT (Global Database of Events, Language, and Tone) dataset required handling massive scale updates (every 15 minutes). We utilized **Google BigQuery** to perform server-side aggregations via SQL, filtering specifically for event types likely to trigger social friction (terrorist attacks, political scandals, social protests).
-* *Constraint:* We restricted our analysis to the period starting **March 2015**. This marks the transition from GDELT 1.0 to **GDELT 2.0**, where the data reporting structure changed significantly. Using data prior to this date would have introduced feature discontinuities.
-**2. Metric Selection: Goldstein vs. AvgTone**
-A major challenge was mapping geopolitical events to social sentiment.
-* **The Failure of Goldstein:** We initially tested the *Goldstein Scale*, which measures stability between state actors. However, this metric failed to capture social polarization. For example, a controversial election might be geopolitically "stable" (Goldstein $\approx$ 0) but socially explosive.
-* **The Solution (AvgTone):** We settled on the `AvgTone` metric, which quantifies the emotional tone of the reporting journalist. This proved to be a stronger proxy for the "public mood" than state-level stability metrics.
-**3. Normalization: The Rolling Z-Score**
-To handle the non-stationarity of Reddit (where user volume grows significantly over years), raw counts of hostile comments were unusable. We applied a **Rolling Z-Score** normalization with a 2-month window.
-For a given week **t**, the standardized hostility score **Z<sub>t</sub>** is calculated as: **Z<sub>t</sub> = (x<sub>t</sub> − μ<sub>[t−w, t]</sub>) / σ<sub>[t−w, t]</sub>**
-Where **x<sub>t</sub>** is the raw hostility volume, and **μ** and **σ** are the mean and standard deviation over the rolling window **w**. We further filtered for relevance by excluding weeks falling below the 50th percentile in activity volume, preventing low-traffic threads from producing artificial spikes.
-**4. Statistical Inference: T-Tests & Granger Causality**
-To mathematically validate the link between GDELT (Time series **X**) and Reddit Hostility (Time series **Y**), we employed two tests:
-* **Regression T-Tests:** We modeled Reddit hostility as a function of GDELT tone. The heatmap displayed above represents the resulting *p-values* of the test. A small p-value indicates that GDELT and Reddit are very unlikely to be independent one from another.
-* **Granger Causality Test:** To determine if news *predicts* hostility (rather than just correlating with it), we performed a Granger Causality test. Formally, we tested if including past values of GDELT (**X<sub>t-k</sub>**) provides a statistically significant reduction in the prediction error of Reddit Hostility (**Y<sub>t</sub>**) compared to a model using only past values of Reddit (**Y<sub>t-k</sub>**): **Y<sub>t</sub> = α + Σ<sub>k=1..L</sub> β<sub>k</sub> · Y<sub>t−k</sub> + Σ<sub>k=1..L</sub> γ<sub>k</sub> · X<sub>t−k</sub> + ε<sub>t</sub>**
-We test the null hypothesis **H<sub>0</sub>: γ<sub>k</sub> = 0** for all lags **k**. We chose not to display those results eventhough GDELT seemed to have a small predictive power on Reddit, only the pair Informative - Social-protests yielded a statistically significant p-value.
-**5. Lag Analysis & Temporal Directionality**
-Beyond simple correlation, we analyzed the time-lag between the two signals to determine the direction of the "spark."
-* **Standard Reaction (0 to +2 Weeks):** For most event types (Terrorism, Scandals), the reaction is either practically instantaneous or Reddit lags behind GDELT by 1-2 weeks. This confirms the intuitive model where real-world news drives online discussion.
-**The Social Protest Anomaly (-1 Week):** Interestingly, for the 'Social Protests' theme, we observed a **negative lag**. In these cases, the Reddit hostility spike often *preceded* the GDELT signal by one week. This suggests that for grassroots movements, the conflict ignites within the community *before* it reaches the threshold of global media coverage. Due to a lack of statistical significance, we chose not to discuss this in our main analysis.
-
-
-</details>
-
 
 
 ---
