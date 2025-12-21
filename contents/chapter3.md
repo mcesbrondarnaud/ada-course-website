@@ -40,8 +40,6 @@ Lisa exhales slowly.
 Fig 3.2 — Distribution of Negativity per Group
 
 ![Distribution of Negativity per Group](/ada-course-website/assets/img/image12.jpeg)
-[Distribution of Negativity per Group](/ada-course-website/assets/img/image12.jpeg)
-
 
 The next chart replaces trajectories with distributions.
 
@@ -67,7 +65,7 @@ Lisa tilts her head.
 ### What Changes When a Source Ignites
 Fig 3.3 — Activation of Neighbor-to-Neighbor (n2n) Chambers
 
-![Activation of Neighbor-to-Neighbor (n2n) Chambers](/ada-course-website/contents/img/image11.jpeg)
+![Activation of Neighbor-to-Neighbor (n2n) Chambers](/ada-course-website/assets/img/image11.jpeg)
 
 
 The analyst switches to the next set of plots.
@@ -111,7 +109,7 @@ Lisa frowns.
 ### Are Waves Reusing the Same Cast?
 Fig 3.4 — Similarity Across Peaks (Sources & Neighbors)
 
-![Similarity Across Peaks (Sources & Neighbors)](/ada-course-website/contents/img/image10.jpeg)
+![Similarity Across Peaks (Sources & Neighbors)](/ada-course-website/assets/img/image10.jpeg)
 
 Two heatmaps appear.
 
