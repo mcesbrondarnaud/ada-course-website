@@ -57,7 +57,7 @@ He continues:
 - A small number of routes dominate.
 - Informative and Politics connect to almost everyone.
 
-*“This tells us something important,”* he says. *“Conflicts don’t appear randomly. They grow along pre-existing hostility highways.”*
+*“This tells us something important,”* he says. *“Conflicts don’t appear randomly. They grow along pre-existing hostility highways.”*<br><br><br>
 
 
 ### Who Dominates the Noise Over Time
@@ -98,7 +98,7 @@ Lisa nods.
 
 *“And then you aggregate.”*
 
-*“Yes. Detection is fine-grained, interpretation is at the cluster level.”*
+*“Yes. Detection is fine-grained, interpretation is at the cluster level.”*<br><br><br>
 
 
 ### The Conflict Network
@@ -128,7 +128,7 @@ He gestures to the major conflict pairs.
 
 <iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-“A handful of cluster pairs explain a large fraction of all conflicts. The same battles repeat.”
+“A handful of cluster pairs explain a large fraction of all conflicts. The same battles repeat.”<br><br><br>
 
 
 ### Who Starts the Fights
@@ -148,7 +148,7 @@ All other clusters contribute marginally.
 
 *“This confirms something crucial,”* the analyst says.
 
-*“The clusters that dominate hostility are also the ones that escalate it. These are the ones we need to be really careful about, they are the main fighters.”*
+*“The clusters that dominate hostility are also the ones that escalate it. These are the ones we need to be really careful about, they are the main fighters.”*<br><br><br>
 
 ### Who Bears the Cost
 
@@ -176,7 +176,7 @@ Lisa exhales.
 He pauses, then adds, *“Informative and Politics clearly stand out here. They behave like structural bullies in the system.”*
 
 Lisa frowns. *“Then we need to be careful.”*
-*“Maybe,”* he replies. *“Their strong ideological divisions also mean they spend a lot of energy fighting among themselves. If we’re lucky, they’ll stay busy tearing each other apart.”*
+*“Maybe,”* he replies. *“Their strong ideological divisions also mean they spend a lot of energy fighting among themselves. If we’re lucky, they’ll stay busy tearing each other apart.”*<br><br><br>
 
 
 ### What We Learn
