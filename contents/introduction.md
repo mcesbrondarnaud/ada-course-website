@@ -1,1 +1,1 @@
-In recent years, social media platforms have become powerful spaces for public discourse, enabling people to exchange ideas, discuss news, and engage in debates. However, these platforms have also witnessed the emergence of hostility, where negative interactions and toxic behavior can rapidly spread, creating a fragmented and polarized environment. One of the most prominent examples of such platforms is Reddit, a vast network of communities where users interact around common topics of interest.
+
