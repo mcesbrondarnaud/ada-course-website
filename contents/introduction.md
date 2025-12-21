@@ -1,5 +1,8 @@
 # Introduction: The Usual Suspects
 
+![image 1](/ada-course-website/contents/assets/img/image1.png)
+
+
 <section class="container my-5">
   <div class="row align-items-center">
 
