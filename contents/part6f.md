@@ -1,4 +1,4 @@
-# VI. 📈 Modeling the Spread: Can We Forecast Negativity?
+# VII. 📈 Modeling the Spread: Can We Forecast Negativity?
 
 Up to now, we have built solid foundations to understand how negativity behaves online.
 
