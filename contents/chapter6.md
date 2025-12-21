@@ -1,4 +1,4 @@
-# Chapter VI: The Counter-Measure (Don't Feed the Trolls)
+# Chapter VI - The Counter-Measure (Don't Feed the Trolls)
 Lisa’s finger hovers over the keyboard. Her subreddit is burning. The instinct to fight back is overwhelming. She wants to ban the attackers, reply to their comments, and launch a counter-raid.
 
 *"Wait!"* the analyst shouts, grabbing her wrist. *"Don't engage."*
