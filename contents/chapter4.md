@@ -7,6 +7,9 @@ The analyst nods. *"The 'External Trigger' theory. Does a terrorist attack in Pa
 To answer this, the team activated the **GDELT Interface**, cross-referencing global news events with Reddit hostility spikes from 2015 to 2017.
 
 (Insert Fig 4.1: The Event Bubble Plot)
+<iframe src="/ada-course-website/contents/reddit_matrix_bubble_causal.html"
+        style="width:100%;height:600px;"
+        frameborder="0"></iframe>
 
 **The Insight:** The Bubble Plot acts as our "Event Radar."
 - **The Synchronized Spikes:** Some major events (like the Paris Attacks or specific Election Debates) show a clear correlation: Real-world tragedy leads to immediate online hostility.
