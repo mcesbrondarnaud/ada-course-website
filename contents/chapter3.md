@@ -160,7 +160,7 @@ The final figure isolates a small subset of communities.
 
 <iframe src='https://flo.uri.sh/visualisation/26918957/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-*“These are the amplifiers,”* the analyst explains. *“Clusters that repeatedly appear as sources or highly active neighbors.”*
+*“These are the amplifiers,”* the analyst explains. *“Clusters that repeatedly appear as sources, we can even call them super spreaders.”*
 
 Lisa isn’t surprised.
 
