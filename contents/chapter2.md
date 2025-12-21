@@ -114,8 +114,11 @@ Lisa nods.
 
 ### The Conflict Network
 Fig 2.4 — Network Graph of Conflicts with Arrows
-[Network Graph of Conflicts with Arrows](/ada-course-website/contents/graphA.html).
 
+<iframe src="/ada-course-website/contents/graphA.html"
+        style="width:100%;height:600px;"
+        frameborder="0"></iframe>
+        
 The screen redraws into a directed graph.
 
 *“This,”* the analyst says, *“is conflict.”*
