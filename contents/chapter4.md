@@ -8,7 +8,7 @@ To answer this, the team activated the **GDELT Interface**, cross-referencing gl
 
 (Insert Fig 4.1: The Event Bubble Plot)
 <iframe src="/ada-course-website/contents/reddit_matrix_bubble_causal.html"
-        style="width:100%;height:600px;"
+        style="width:100%;height:1000px;"
         frameborder="0"></iframe>
 
 **The Insight:** The Bubble Plot acts as our "Event Radar."
