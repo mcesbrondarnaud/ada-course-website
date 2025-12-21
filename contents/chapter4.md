@@ -1,5 +1,7 @@
 # Chapter IV - The Spark (Internal Drama or Global Chaos?)
 
+![Image 9](/ada-course-website/assets/img/image9.jpeg)
+
 Lisa stares at the data. *"I understand the Echo Chambers. But what pulls the trigger? Do they wake up angry, or does something happen in the real world to set them off?"*
 
 The analyst nods. *"The 'External Trigger' theory. Does a terrorist attack in Paris or a political scandal in Washington cause a spike in hostility on Reddit?"*
