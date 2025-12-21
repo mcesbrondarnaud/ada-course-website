@@ -8,6 +8,8 @@ The analyst nods.
 
 *“To answer that, we have to start before open conflict. Hostility leaves footprints long before it explodes.”*
 
+![Image 4](/ada-course-website/assets/img/image4.jpeg)
+
 ### Background Hostility: The Constant Pressure
 The first charts appear.
 
