@@ -1,4 +1,8 @@
 # Chapter VI - The Counter-Measure (Don't Feed the Trolls)
+
+![Image 7](/ada-course-website/assets/img/image7.jpeg)
+
+
 Lisa’s finger hovers over the keyboard. Her subreddit is burning. The instinct to fight back is overwhelming. She wants to ban the attackers, reply to their comments, and launch a counter-raid.
 
 *"Wait!"* the analyst shouts, grabbing her wrist. *"Don't engage."*
