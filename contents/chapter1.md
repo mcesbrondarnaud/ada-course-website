@@ -1,4 +1,4 @@
-# Chapter I: The Map of the Realm
+# Chapter I - The Map of the Realm
 *"Standard maps won't work here,"* the analyst continues, dimming the lights. *"Reddit isn't a list of websites. It is a galaxy."*
 
 To understand the battlefield, the ADAvengers used **Embeddings** to project every subreddit onto a 2D map based on user overlap. Communities that share users are pulled close together; enemies or strangers are pushed apart.
