@@ -1,4 +1,4 @@
-# Chapter IV: The Spark (Internal Drama or Global Chaos?)
+# Chapter IV - The Spark (Internal Drama or Global Chaos?)
 
 Lisa stares at the data. *"I understand the Echo Chambers. But what pulls the trigger? Do they wake up angry, or does something happen in the real world to set them off?"*
 
