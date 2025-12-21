@@ -1,1 +1,3 @@
-
+- Most of the interactive graphs have been done using flourish.
+- Home page video: AI generated using Gemini
+- Illustrations for the amplifier part : AI generated using ChatGPT
