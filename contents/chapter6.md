@@ -9,6 +9,31 @@ Lisa’s finger hovers over the keyboard. Her subreddit is burning. The instinct
 
 (Insert Fig 6.1: Success of Strategies - Aggressive vs Neutral)
 
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src='https://flo.uri.sh/visualisation/26928088/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+The data reveals a stark truth about Reddit warfare.
+<ul>
+<li> <strong>The Counter-Attack (Aggressive Response):</strong> When moderators or communities retaliate with hostility, the conflict duration extends and the intensity spikes. You aren't putting out the fire; you are pouring gasoline on it.</li>
+<li> <strong>The Shield Wall (Retreat + Neutral):</strong> The strategy of "Retreat" (reducing activity) combined with "Neutrality" (refusing to engage in toxic comments) results in the fastest de-escalation.</li>
+</ul>
+
+</div>
+</div>
+
+</div>
+</section>
+
+
+
 <iframe src='https://flo.uri.sh/visualisation/26928088/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 **The Analysis:** The data reveals a stark truth about Reddit warfare.
