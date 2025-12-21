@@ -12,6 +12,7 @@ This allows us to:
 Negativity fluctuates; there is always some, but you can probably brush it off when it’s just a few negative comments. However there are peaks during which it can become overwhelming. Here we study the main peaks of negativity and the waves they come in. If we learn what these waves are, we can learn to avoid them.
 
 [Fig 2.1 Peaks of negativity]
+[Peaks of negativity](/ada-course-website/contents/graphA.html).
 
 For each peak, we ask: Who acted first? By tracing interactions backward in time, we identify: 
 - Original sources that initiate negative interactions,
