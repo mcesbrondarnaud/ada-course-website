@@ -1,4 +1,4 @@
-# V. External Shocks: Are World Events Driving the Waves?
+# VI. External Shocks: Are World Events Driving the Waves?
 Before blaming communities alone, we test a key confounder:
 ** What if negativity peaks are driven by world events instead? ** 
 Part 4: External Shocks – Is the World Driving the Anger?
