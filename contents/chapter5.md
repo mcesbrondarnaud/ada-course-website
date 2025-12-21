@@ -66,10 +66,4 @@ The model revealed that the reaction to exposure is not uniform.
 </section>
 
 
-<iframe src='https://flo.uri.sh/visualisation/26910918/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
-**The Insight:** The model revealed that the reaction to exposure is not uniform.
-- **The Resilient:** Most clusters ignore the noise. They receive negativity, but their βi  (sensitivity) is low. They do not propagate the wave.
-- **The Super-Spreaders:** A small number of clusters are highly sensitive. When they are exposed to negativity, their own hostility rises sharply.
-
 *"These few sensitive communities," the analyst concludes, "are the engines of war. They amplify the conflict and drive the global dynamics we see on the map."*
