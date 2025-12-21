@@ -21,7 +21,7 @@ To answer this, the team activated the **GDELT Interface**, cross-referencing gl
 *"So it's not just a mirror of the news,"* Lisa concludes.
 *"It's more complex,"* the analyst replies. *"We calculated exactly how much the 'Media Tone' influences Reddit."*
 
-<iframe src="/ada-course-website/contents/ttest_heatmap_interactive.html"
+<iframe src="/ada-course-website/contents/ttest_heatmap_interactive1.html"
         style="width:100%;height:700px;"
         frameborder="0"></iframe>
         
