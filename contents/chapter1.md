@@ -21,7 +21,7 @@ Subreddits that share similar topics are pulled closer together, while more dist
 The figure reveals *thematic neighborhoods*:
 <ul>
 <li> <strong>A large gaming region </strong> where many game-related subreddits appear tightly grouped (e.g., *gaming*, specific titles, platforms, esports).</li>
-<li> <strong>A distinct politics/news region</strong> where political subreddits cluster together and often sit apart from entertainment or hobby spaces (e.g., *politics*, *worldnews*, ideology-leaning communities).</li>
+<li> <strong>A distinct politics/news region</strong> where political subreddits cluster together and often sit apart from entertainment or hobby spaces (e.g., <strong>politics</strong>, <strong>worldnews</strong>, ideology-leaning communities).</li>
 <li> <strong>Several medium-sized thematic pockets</strong> such as sports or fantasy/science-fiction communities, which form recognizable islands without dominating the map.</li>
 <li> <strong>A long tail of smaller niches</strong> (hobbies, local interests, specialized topics) scattered around the periphery.</li>
 </ul>
