@@ -11,25 +11,6 @@ The analyst nods.
 ### Background Hostility: The Constant Pressure
 The first charts appear.
 
-<section class="container my-5">
-  <div class="row justify-content-center">
-    <div class="col-12 col-lg-10">
-      <div class="card p-3 shadow-sm">
-        <div class="ratio" style="--bs-aspect-ratio: 56.25%;">
-          <iframe
-            src="[https://flo.uri.sh/visualisation/26649034/embed]"
-            title="Negativity flows"
-            frameborder="0"
-            scrolling="no"
-            allowfullscreen>
-          </iframe>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
 <iframe src='https://flo.uri.sh/visualisation/26649034/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 *“These are negative links, not conflicts,”* the analyst says immediately.
