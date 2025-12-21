@@ -12,7 +12,7 @@ To test this, the team built a propagation model operating on a weekly timescale
 <details>
 <summary><strong>Technical File: The Propagation Equation</strong></summary>
 
-  We model the negativity ratio ri,t+1  of cluster i at week t+1 as: ri,t+1 =αri,t +βi (Wrt )i +εi,t
+  We model the negativity ratio ri, t+1  of cluster i at week t+1 as: ri,t+1 =αri,t +βi (Wrt )i +εi,t
 Where:
 - α (**Persistence**): Captures if a community stays negative simply because it was negative last week.
 - (Wrt )i  (**Exposure**): A weighted sum representing how much toxicity cluster i received from its neighbors.
