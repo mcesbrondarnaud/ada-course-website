@@ -8,6 +8,9 @@ The analyst nods.
 
 *“Exactly. Negativity isn’t constant. It comes in waves.”*
 
+![Image 2](/ada-course-website/assets/img/image2.jpeg)
+
+
 ### A Persistent Gap
 
 The first figure fills the screen: three curves, steady, separated.
