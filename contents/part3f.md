@@ -1,4 +1,4 @@
-# III. 🔥 Echo Chambers or Coincidence? Do Sources Actually Activate Neighbors?
+# IV. 🔥 Echo Chambers or Coincidence? Do Sources Actually Activate Neighbors?
 Being present during an attack doesn’t mean being influenced by it. 			   
 To test whether negativity truly spreads, rather than just randomly fluctuates, we analyze whether:	 
 - neighbors increase their own negative activity after being targeted,
