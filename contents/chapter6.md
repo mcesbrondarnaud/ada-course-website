@@ -22,8 +22,11 @@ Lisa’s finger hovers over the keyboard. Her subreddit is burning. The instinct
 </details>
 
 
-"It's the oldest rule of the internet," the analyst whispers. "Don't Feed The Trolls. But now, we have the math to prove it."
+*"It's the oldest rule of the internet,"* the analyst whispers. *"Don't Feed The Trolls. But now, we have the math to prove it."*
+
 Lisa looks at the screen. The math is undeniable. Fighting back satisfies the ego but destroys the subreddit. Silence saves the community.
+
 She takes a deep breath... and takes her hands off the keyboard.
-"Lock the threads," she orders. "Automod on high alert. No replies. We weather the storm."
+
+*"Lock the threads,"* she orders. *"Automod on high alert. No replies. We weather the storm."*
 
