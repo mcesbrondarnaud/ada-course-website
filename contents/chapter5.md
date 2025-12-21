@@ -12,11 +12,11 @@ To test this, the team built a propagation model operating on a weekly timescale
 <details>
 <summary><strong>Technical File: The Propagation Equation</strong></summary>
 
-  We model the negativity ratio ri, t+1  of cluster i at week t+1 as: ri,t+1 =αri,t +βi (Wrt )i +εi,t
-Where:
-- α (**Persistence**): Captures if a community stays negative simply because it was negative last week.
-- (Wrt )i  (**Exposure**): A weighted sum representing how much toxicity cluster i received from its neighbors.
-- βi  (**Sensitivity**): A crucial addition. We realized not all communities react the same way. This coefficient allows each cluster to have a unique "immune system" response to exposure.
+We model the negativity ratio of cluster *i* at week *t + 1* as: **r<sub>i,t+1</sub> = α · r<sub>i,t</sub> + β<sub>i</sub> · (W · r<sub>t</sub>)<sub>i</sub> + ε<sub>i,t</sub>**, where:
+- **α (Persistence)** : Measures how much a community remains negative simply because it was negative in the previous week.
+- **(W · r<sub>t</sub>)<sub>i</sub> (Exposure)**  : A weighted sum capturing how much negativity cluster *i* receives from its neighbors at time *t*.
+- **β<sub>i</sub> (Sensitivity)**: A cluster-specific response coefficient. It reflects the fact that not all communities react equally to incoming negativity — some amplify it, while others remain resilient.
+- **ε<sub>i,t</sub>**: A noise term accounting for unobserved factors and random fluctuations.
   
 </details>
 
