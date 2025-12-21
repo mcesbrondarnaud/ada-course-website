@@ -42,6 +42,30 @@ The analyst points to the **Model Coefficients**:
 
 He pulls up the final diagnostic chart: **Cluster-Specific Sensitivity**.
 
+<section class="container my-5">
+<div class="row g-4 align-items-start">
+
+<div class="col-12 col-lg-7">
+<div class="card p-3">
+<iframe src='https://flo.uri.sh/visualisation/26910918/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+</div>
+</div>
+
+<div class="col-12 col-lg-5">
+<div class="card p-4 shadow-sm h-100">
+The model revealed that the reaction to exposure is not uniform.
+<ul>
+<li> <strong>The Resilient:</strong> Most clusters ignore the noise. They receive negativity, but their βi  (sensitivity) is low. They do not propagate the wave.</li>
+<li> <strong>The Super-Spreaders:</strong> A small number of clusters are highly sensitive. When they are exposed to negativity, their own hostility rises sharply.</li>
+</ul>
+
+</div>
+</div>
+
+</div>
+</section>
+
+
 <iframe src='https://flo.uri.sh/visualisation/26910918/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 **The Insight:** The model revealed that the reaction to exposure is not uniform.
