@@ -1,4 +1,4 @@
-# Chapter II — Overall Negativity View: Routes & Main Conflicts
+# Chapter II - Overall Negativity View: Routes & Main Conflicts
 
 The room is quiet as the analyst brings up the next layer of data.
 
