@@ -33,13 +33,6 @@ The data reveals a stark truth about Reddit warfare.
 </section>
 
 
-
-<iframe src='https://flo.uri.sh/visualisation/26928088/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
-**The Analysis:** The data reveals a stark truth about Reddit warfare.
-- **The Counter-Attack (Aggressive Response):** When moderators or communities retaliate with hostility, the conflict duration extends and the intensity spikes. You aren't putting out the fire; you are pouring gasoline on it.
-- **The Shield Wall (Retreat + Neutral):** The strategy of "Retreat" (reducing activity) combined with "Neutrality" (refusing to engage in toxic comments) results in the fastest de-escalation.
-
 <details>
 <summary><strong>Technical File: Measuring the Fallout</strong></summary>
 
