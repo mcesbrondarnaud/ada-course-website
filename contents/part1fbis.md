@@ -25,6 +25,10 @@ We first visualize how conflicts flow between clusters over time.
 [**Fig 2.1 — Dynamic conflict network between clusters**]
 [Dynamic conflict network between clusters](/ada-course-website/contents/graphA.html).
 
+<iframe src="/ada-course-website/contents/graphA.html"
+        style="width:100%;height:600px;"
+        frameborder="0"></iframe>
+        
 In this animated network:
 - nodes represent clusters,
 - directed edges represent conflicts,
