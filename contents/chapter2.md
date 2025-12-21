@@ -86,7 +86,7 @@ Lisa looks up.
 
 *“So now we know who’s shouting. When does shouting turn into fighting?”*
 
-The analyst clicks.
+The analyst clicks.<br><br><br>
 
 
 ### From Hostility to Conflict
