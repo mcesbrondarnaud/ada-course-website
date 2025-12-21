@@ -1,4 +1,4 @@
-# II. 🚨 When Negativity Spikes: Detecting Attacks and First Movers
+# III. 🚨 When Negativity Spikes: Detecting Attacks and First Movers
 
 Not every negative comment is an attack. We identify negativity surges — sudden spikes in hostile links targeting a community within a short time window. These moments mark when a subreddit shifts from casual disagreement to coordinated pressure.
 
