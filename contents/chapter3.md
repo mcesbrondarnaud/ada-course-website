@@ -86,7 +86,7 @@ He taps the histogram.
 
 Lisa nods.
 
-*“This is the moment echo chambers switch on.”
+*“This is the moment echo chambers switch on.”<br><br><br>
 
 ### Who Dominates the Emotional Load
 
@@ -101,7 +101,7 @@ Lisa frowns.
 
 *“So the most toxic conversations aren’t the most common ones.”*
 
-*“Exactly,”* he says. *“Echo chambers are small but intense.”*
+*“Exactly,”* he says. *“Echo chambers are small but intense.”*<br><br><br>
 
 
 ### Are Waves Reusing the Same Cast?
