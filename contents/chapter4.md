@@ -38,6 +38,8 @@ A major challenge was mapping geopolitical events to social sentiment.
 **3. Normalization: The Rolling Z-Score**
 To handle the non-stationarity of Reddit (where user volume grows significantly over years), raw counts of hostile comments were unusable. We applied a **Rolling Z-Score** normalization with a 2-month window.
 For a given week $t$, the standardized hostility score $Z_t$ is calculated as:
+**Z<sub>t</sub> = (x<sub>t</sub> − μ<sub>[t−w, t]</sub>) / σ<sub>[t−w, t]</sub>**
+
 $$Z_t = \frac{x_t - \mu_{[t-w, t]}}{\sigma_{[t-w, t]}}$$
 Where $x_t$ is the raw hostility volume, and $\mu$ and $\sigma$ are the mean and standard deviation over the rolling window $w$. We further filtered for relevance by excluding weeks falling below the 50th percentile in activity volume, preventing low-traffic threads from producing artificial spikes.
 **4. Statistical Inference: T-Tests & Granger Causality**
