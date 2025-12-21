@@ -23,6 +23,7 @@ This preserves fine-grained detection while allowing us to reason at the level o
 We first visualize how conflicts flow between clusters over time.
 
 [**Fig 2.1 — Dynamic conflict network between clusters**]
+[Dynamic conflict network between clusters](/ada-course-website/contents/graphA.html).
 
 In this animated network:
 - nodes represent clusters,
@@ -41,6 +42,7 @@ They appear both as major **sources** of conflicts and frequent **targets**, sug
 To further characterize this behavior, we aggregate conflicts into a Sankey diagram.
 
 [**Fig 2.2 — Sankey diagram of conflict flows (top cluster pairs)**]
+<iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 This visualization separates:
 - **intra-cluster conflicts** (within the same cluster),
@@ -60,6 +62,7 @@ these clusters are not just “attackers”,  they are also deeply divided inter
 To confirm this visual intuition, we compute the **share of conflicts originating from each cluster over time**.
 
 [**Fig 2.3 — Share of conflicts as source over time**]
+<iframe src='https://flo.uri.sh/visualisation/26800720/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 The pattern is striking:
 - **Informative** dominates most of the timeline,
@@ -83,6 +86,7 @@ Finally, we analyze how conflicts are distributed across clusters in three roles
 We order clusters from left to right by their total number of interactions and compare the relative shares. Note that two clusters are missing because they were not in conflict with any other one, as they are really small and structurally different. 
 
 [**Fig 2.4 — Incoming, outgoing, and internal conflict shares by cluster**]
+<iframe src='https://flo.uri.sh/visualisation/26805809/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 This reveals a clear pattern:
 - “soft” or entertainment-oriented clusters (Sports, Technology, Entertainment, Lifestyle) receive a **disproportionately large share of incoming conflicts**,
