@@ -21,9 +21,10 @@ Where:
 </details>
 
 
-*"We fed the model years of data,"* the analyst says. *"Here is the forecast versus reality."*
+*"We fed the model years of data,"* the analyst says. *"Here is the **forecast versus reality.**"*
 
-(Insert Fig 5.1: Observed vs. Predicted Negativity)
+<iframe src='https://flo.uri.sh/visualisation/26916498/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
 
 **The Result:** The orange line (Prediction) tracks the blue line (Reality) with remarkable consistency.
 - **The Signal in the Noise:** Online behavior is chaotic, so we cannot predict every minor fluctuation. However, the model successfully captures the overall trends and the timing of the largest peaks.
@@ -38,8 +39,9 @@ The analyst points to the **Model Coefficients**:
 
 *"But here is the catch,"* the analyst warns. *"It's contagious, but not everyone gets sick."*
 
-He pulls up the final diagnostic chart: Cluster Sensitivity.
-(Insert Fig 5.2: Cluster-Specific Sensitivity)
+He pulls up the final diagnostic chart: **Cluster-Specific Sensitivity**.
+
+<iframe src='https://flo.uri.sh/visualisation/26910918/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 **The Insight:** The model revealed that the reaction to exposure is not uniform.
 - **The Resilient:** Most clusters ignore the noise. They receive negativity, but their βi  (sensitivity) is low. They do not propagate the wave.
