@@ -12,6 +12,7 @@ The analyst nods.
 Fig 2.1 — Intra / Extra Negative Links per Cluster
 The first charts appear.
 
+<iframe src='https://flo.uri.sh/visualisation/26649034/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 *“These are negative links, not conflicts,”* the analyst says immediately.
 
@@ -43,6 +44,8 @@ Fig 2.2 — Extra-Cluster Negative Link Flows
 
 The pies transition into a chord diagram.
 
+<iframe src="https://flo.uri.sh/visualisation/26513009/embed" style="width:100%;height:600px;" frameborder="0" scrolling="no"></iframe>
+
 *“Now we remove internal negativity entirely,”* the analyst says.
 
 *“This shows only hostility between clusters, without any notion of escalation.”*
@@ -72,7 +75,10 @@ Before Lisa can reply, the analyst brings up the next figure.
 
 *“This is hostility volume over time.”*
 
+<iframe src="https://flo.uri.sh/visualisation/26805661/embed" title="Monthly negativity ratios by cluster" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;"> </iframe> Despite fluctuations, this confirms that Politics and Informative remain top actors throughout.
+
 The bars race forward.
+
 Lisa watches the leaders swap, then settle.
 
 *“They keep coming back,”* she murmurs.
@@ -108,7 +114,7 @@ Lisa nods.
 
 ### The Conflict Network
 Fig 2.4 — Network Graph of Conflicts with Arrows
-[Network Graph of Conflicts with Arrows]
+[Network Graph of Conflicts with Arrows](/ada-course-website/contents/graphA.html).
 
 The screen redraws into a directed graph.
 
@@ -131,6 +137,8 @@ Fig 2.5 — Major Conflict Pairs
 
 He gestures to the major conflict pairs.
 
+<iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
 “A handful of cluster pairs explain a large fraction of all conflicts. The same battles repeat.”
 
 
@@ -142,6 +150,8 @@ The next chart simplifies everything.
 Lisa doesn’t wait.
 
 *“Same two.”*
+
+<iframe src='https://flo.uri.sh/visualisation/26800720/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 *“Yes. Across time, Informative initiates the most conflicts, followed closely by Politics.”*
 
@@ -158,8 +168,10 @@ Fig 2.7 — Conflict Distribution Chart
 The final figures appear together.
 
 *“Now we look at roles,”* the analyst explains.
+
 *“Who fights internally, who attacks, and who gets attacked.”*
 
+<iframe src='https://flo.uri.sh/visualisation/26805809/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 The imbalance is clear:
 - Lifestyle, Entertainment, Technology, Sports absorb a large share of incoming conflicts.
