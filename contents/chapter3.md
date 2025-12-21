@@ -40,6 +40,7 @@ Lisa exhales slowly.
 Fig 3.2 — Distribution of Negativity per Group
 
 ![Distribution of Negativity per Group](/ada-course-website/contents/img/image12.jpeg)
+[Distribution of Negativity per Group](/ada-course-website/contents/img/image12.jpeg)
 
 
 The next chart replaces trajectories with distributions.
