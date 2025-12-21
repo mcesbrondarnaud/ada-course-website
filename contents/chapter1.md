@@ -33,8 +33,10 @@ This is the satellite view of Reddit. You can clearly see the "Continents" formi
 
 
 This structure reveals an important nuance: the most thematically precise communities tend to form **isolated islands**, while broader themes occupy the middle ground, bridging multiple regions.
-*"But a satellite view is too messy for strategy," Lisa argues. "I need to know the chain of command."
-"Then look at the Hierarchy,"* the analyst replies.
+
+*"But a satellite view is too messy for strategy," Lisa argues. "I need to know the chain of command."*
+
+*"Then look at the Hierarchy,"* the analyst replies.
 
 
 <section class="container my-5">
