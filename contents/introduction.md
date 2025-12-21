@@ -1,4 +1,42 @@
 # Introduction: The Usual Suspects
+
+<section class="container my-5">
+  <div class="row align-items-center">
+
+    <!-- LEFT: TEXT -->
+    <div class="col-12 col-lg-6">
+
+      <p class="mt-3">
+        Lisa stands in the center of the <strong>War Room</strong>, the hum of servers vibrating through the floor. On the main screen, a jagged red line is spiking vertically.
+
+      </p>
+
+      <p class="fst-italic">
+        "Incoming wave," she announces, her voice calm but tight. "Hostility levels at 300% and rising."
+      </p>
+
+      <p class="mt-3">
+      Lisa isn't a soldier; she is the Head Moderator of r/Utopia. For years, she built her community like a garden—pruning spam and banning weeds. But today, the garden is being trampled. A brigade from a rival community has breached the gates.
+
+      </p>
+    </div>
+
+    <!-- RIGHT: IMAGE -->
+    <div class="col-12 col-lg-6 text-center">
+      <img src="images/imageintro.png"
+           alt="Conflict illustration"
+           class="img-fluid rounded shadow-sm">
+    </div>
+
+  </div>
+</section>
+
+
+
+
+
+
+
 Lisa stands in the center of the **War Room**, the hum of servers vibrating through the floor. On the main screen, a jagged red line is spiking vertically.
 
 *"Incoming wave,"* she announces, her voice calm but tight. *"Hostility levels at 300% and rising."*
