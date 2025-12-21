@@ -4,6 +4,8 @@ To test whether negativity truly spreads, rather than just randomly fluctuates, 
 - neighbors increase their own negative activity after being targeted,
 - repeated exposure leads to measurable escalation,
 - and activation patterns align temporally with source behavior.
+
+
 Let’s see if neighbors are in fact influenced by sources:
 
 [Fig 3.1 Change in n2n activity]
