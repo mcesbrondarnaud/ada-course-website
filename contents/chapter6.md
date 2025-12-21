@@ -7,8 +7,6 @@ Lisa’s finger hovers over the keyboard. Her subreddit is burning. The instinct
 
 *"We analyzed the outcome of every major conflict strategy,"* the analyst says, projecting the final, most crucial chart of the war. *"We looked at what happens when victims fight back versus when they disengage."*
 
-(Insert Fig 6.1: Success of Strategies - Aggressive vs Neutral)
-
 <section class="container my-5">
 <div class="row g-4 align-items-start">
 
