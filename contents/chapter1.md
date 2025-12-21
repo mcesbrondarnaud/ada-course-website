@@ -20,9 +20,9 @@ For each local region, clusters are extracted automatically using a k-nearest ne
 
 This is the satellite view of Reddit. You can clearly see the "Continents" forming:
 <ul>
-<li> **The Gaming Archipelago:** A massive, dense cluster of interconnected games.</li>
-<li> **The Political Front:** Highly active, often isolated from the more casual zones.</li>
-<li> **The Neutral Zones:** Hobby and Lifestyle communities floating on the periphery.</li>
+<li> <strong>The Gaming Archipelago:</strong> A massive, dense cluster of interconnected games.</li>
+<li> <strong>The Political Front:</strong> Highly active, often isolated from the more casual zones.</li>
+<li> <strong>The Neutral Zones:</strong> Hobby and Lifestyle communities floating on the periphery.</li>
 </ul>
 
 </div>
