@@ -13,8 +13,6 @@ The analyst nods.
 ### Background Hostility: The Constant Pressure
 The first charts appear.
 
-<iframe src='https://flo.uri.sh/visualisation/26649034/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
 <div class="card p-3 my-4 shadow-sm">
   <iframe
     src="https://flo.uri.sh/visualisation/26649034/embed"
@@ -56,6 +54,17 @@ The pies transition into a chord diagram.
 
 *“Now we remove internal negativity entirely,”* the analyst says. *“This shows only hostility between clusters, without any notion of escalation.”*
 
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26513009/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
+
+
 <iframe src="https://flo.uri.sh/visualisation/26513009/embed" style="width:100%;height:600px;" frameborder="0" scrolling="no"></iframe>
 
 Lisa traces the thick arcs.
@@ -77,6 +86,16 @@ He continues:
 Before Lisa can reply, the analyst brings up the next figure.
 
 *“This is still not conflict,”* he says. *“This is hostility volume over time.”*
+
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26805661/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
 
 <iframe src="https://flo.uri.sh/visualisation/26805661/embed" title="Monthly negativity ratios by cluster" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;"> </iframe> Despite fluctuations, this confirms that Politics and Informative remain top actors throughout.
 
@@ -138,6 +157,16 @@ Other clusters appear mostly as targets.
 
 He gestures to the major conflict pairs.
 
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26805414/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
+
 <iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 “A handful of cluster pairs explain a large fraction of all conflicts. The same battles repeat.”<br><br><br>
@@ -150,6 +179,16 @@ The next chart simplifies everything.
 Lisa doesn’t wait.
 
 *“Same two.”*
+
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26800720/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
 
 <iframe src='https://flo.uri.sh/visualisation/26800720/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
@@ -169,6 +208,16 @@ The final figures appear together.
 *“Now we look at roles,”* the analyst explains.
 
 *“Who fights internally, who attacks, and who gets attacked.”*
+
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26805809/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
 
 <iframe src='https://flo.uri.sh/visualisation/26805809/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
