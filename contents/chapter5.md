@@ -34,8 +34,6 @@ We model the negativity ratio of cluster *i* at week *t + 1* as: **r<sub>i,t+1</
   ></iframe>
 </div>
 
-<iframe src='https://flo.uri.sh/visualisation/26916498/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
 
 **The Result:** The orange line (Prediction) tracks the blue line (Reality) with remarkable consistency.
 - **The Signal in the Noise:** Online behavior is chaotic, so we cannot predict every minor fluctuation. However, the model successfully captures the overall trends and the timing of the largest peaks.
