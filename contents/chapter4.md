@@ -1,6 +1,9 @@
 # Chapter IV - The Spark (Internal Drama or Global Chaos?)
 
 ![Image 9](/ada-course-website/assets/img/image9.jpeg)
+<div style="text-align:center;">
+  <img src="/ada-course-website/assets/img/image9.jpeg" width="400" alt="">
+</div>
 
 Lisa stares at the data. *"I understand the Echo Chambers. But what pulls the trigger? Do they wake up angry, or does something happen in the real world to set them off?"*
 
