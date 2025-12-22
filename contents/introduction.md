@@ -5,6 +5,8 @@ Lisa stands in the center of the **War Room**, the hum of servers vibrating thro
 
 ![Image 1](/ada-course-website/assets/img/image1.jpeg)
 
+<img src="/ada-course-website/assets/img/image1.jpeg" width="200">
+
 *"Incoming wave,"* she announces, her voice calm but tight. *"Hostility levels at 300% and rising."*
 
 Lisa isn't a soldier; she is the Head Moderator of r/Utopia. For years, she built her community like a garden—pruning spam and banning weeds. But today, the garden is being trampled. A brigade from a rival community has breached the gates.
