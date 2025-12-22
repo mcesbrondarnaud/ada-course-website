@@ -17,8 +17,7 @@ The analyst pulls up the historical archives. *"We analyzed years of Reddit conf
 
 The visualization below tracks the **accumulated hostility** sent by Reddit's top 5 subreddits versus the average of the other top 45.
 
-(Insert Bar Chart Race Animation here)
-
+<iframe src='https://flo.uri.sh/visualisation/26553662/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 "So the enemy is entrenched," Lisa says. *"We aren't fighting a mob. We are fighting an institution."*
 
 *"Exactly,"* the analyst says. "To defeat them, we can't just look at a list of names. We need to see where they live. Let me show you the Map of the Realm."
