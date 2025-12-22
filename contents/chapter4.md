@@ -1,6 +1,5 @@
 # Chapter IV - The Spark (Internal Drama or Global Chaos?)
 
-![Image 9](/ada-course-website/assets/img/image9.jpeg)
 <div style="text-align:center;">
   <img src="/ada-course-website/assets/img/image9.jpeg" width="400" alt="">
 </div>
