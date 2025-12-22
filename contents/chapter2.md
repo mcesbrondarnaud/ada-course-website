@@ -15,6 +15,16 @@ The first charts appear.
 
 <iframe src='https://flo.uri.sh/visualisation/26649034/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:70%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26649034/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
+
 *“These are negative links, not conflicts,”* the analyst says immediately.
 
 *“Think of this as the ambient hostility of Reddit.”*
