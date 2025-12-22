@@ -3,10 +3,6 @@
 
 Lisa stands in the center of the **War Room**, the hum of servers vibrating through the floor. On the main screen, a jagged red line is spiking vertically.
 
-![Image 1](/ada-course-website/assets/img/image1.jpeg)
-
-<img src="/ada-course-website/assets/img/image1.jpeg" width="200">
-
 <div style="text-align:center;">
   <img src="/ada-course-website/assets/img/image1.jpeg" width="400" alt="">
 </div>
@@ -33,8 +29,6 @@ The visualization below tracks the **accumulated hostility** sent by Reddit's to
   ></iframe>
 </div>
 
-
-<iframe src='https://flo.uri.sh/visualisation/26553662/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 "So the enemy is entrenched," Lisa says. *"We aren't fighting a mob. We are fighting an institution."*
 
 *"Exactly,"* the analyst says. "To defeat them, we can't just look at a list of names. We need to see where they live. Let me show you the Map of the Realm."
