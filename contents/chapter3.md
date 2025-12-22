@@ -10,6 +10,9 @@ The analyst nods.
 
 ![Image 2](/ada-course-website/assets/img/image2.jpeg)
 
+<div style="text-align:center;">
+  <img src="/ada-course-website/assets/img/image2.jpeg" width="400" alt="">
+</div>
 
 ### A Persistent Gap
 
@@ -26,8 +29,6 @@ The first figure fills the screen: three curves, steady, separated.
     style="width:100%;height:600px;border-radius:12px;"
   ></iframe>
 </div>
-
-<iframe src='https://flo.uri.sh/visualisation/26805788/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 *“This is where we have to start,”* the analyst says. *“Not with spikes. With baseline behavior.”*
 
@@ -158,8 +159,6 @@ Lisa sighs.
   ></iframe>
 </div>
 
-<iframe src='https://flo.uri.sh/visualisation/26634242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
 The embedding map from Chapter I returns — now animated (and adding a few points for the others).
 
 *“Each dot is a community,”* the analyst says. *“Color indicates its role during a wave.”*
@@ -188,8 +187,6 @@ The final figure isolates a small subset of communities.
     style="width:100%;height:600px;border-radius:12px;"
   ></iframe>
 </div>
-
-<iframe src='https://flo.uri.sh/visualisation/26918957/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 *“These are the amplifiers,”* the analyst explains. *“Clusters that repeatedly appear as sources, we can even call them super spreaders.”*
 
