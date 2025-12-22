@@ -10,6 +10,10 @@ The analyst nods.
 
 ![Image 4](/ada-course-website/assets/img/image4.jpeg)
 
+<div style="text-align:center;">
+  <img src="/ada-course-website/assets/img/image4.jpeg" width="400" alt="">
+</div>
+
 ### Background Hostility: The Constant Pressure
 The first charts appear.
 
@@ -65,8 +69,6 @@ The pies transition into a chord diagram.
 </div>
 
 
-<iframe src="https://flo.uri.sh/visualisation/26513009/embed" style="width:100%;height:600px;" frameborder="0" scrolling="no"></iframe>
-
 Lisa traces the thick arcs.
 
 *“Same hubs again.”*
@@ -97,7 +99,7 @@ Before Lisa can reply, the analyst brings up the next figure.
   ></iframe>
 </div>
 
-<iframe src="https://flo.uri.sh/visualisation/26805661/embed" title="Monthly negativity ratios by cluster" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;"> </iframe> Despite fluctuations, this confirms that Politics and Informative remain top actors throughout.
+Despite fluctuations, this confirms that Politics and Informative remain top actors throughout.
 
 The bars race forward.
 
@@ -167,7 +169,6 @@ He gestures to the major conflict pairs.
   ></iframe>
 </div>
 
-<iframe src='https://flo.uri.sh/visualisation/26805414/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 “A handful of cluster pairs explain a large fraction of all conflicts. The same battles repeat.”<br><br><br>
 
@@ -190,7 +191,7 @@ Lisa doesn’t wait.
   ></iframe>
 </div>
 
-<iframe src='https://flo.uri.sh/visualisation/26800720/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+
 
 *“Yes. Across time, Informative initiates the most conflicts, followed closely by Politics.”*
 
@@ -218,8 +219,6 @@ The final figures appear together.
     style="width:100%;height:600px;border-radius:12px;"
   ></iframe>
 </div>
-
-<iframe src='https://flo.uri.sh/visualisation/26805809/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 The imbalance is clear:
 - Lifestyle, Entertainment, Technology, Sports absorb a large share of incoming conflicts.
