@@ -17,6 +17,16 @@ The analyst nods.
 
 The first figure fills the screen: three curves, steady, separated.
 
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26805788/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
+
 <iframe src='https://flo.uri.sh/visualisation/26805788/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 *“This is where we have to start,”* the analyst says. *“Not with spikes. With baseline behavior.”*
@@ -137,6 +147,17 @@ Lisa sighs.
 
 
 ### Where Echo Chambers Live
+
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26634242/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
+
 <iframe src='https://flo.uri.sh/visualisation/26634242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 The embedding map from Chapter I returns — now animated (and adding a few points for the others).
@@ -157,6 +178,16 @@ He pauses the animation.
 ### The Amplifiers
 
 The final figure isolates a small subset of communities.
+
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26918957/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
 
 <iframe src='https://flo.uri.sh/visualisation/26918957/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
