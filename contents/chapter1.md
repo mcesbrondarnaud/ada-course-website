@@ -16,7 +16,7 @@ For each local region, clusters are extracted automatically using a k-nearest ne
 
 <div class="col-12 col-lg-5">
 <div class="card p-4 shadow-sm h-100">
-This 2D projection is a *semantic* map of Reddit communities (built from embeddings).  
+This 2D projection is a <strong>semantic</strong> map of Reddit communities (built from embeddings).  
 Subreddits that share similar topics are pulled closer together, while more distinct communities drift apart.  
 The figure reveals <strong>thematic neighborhoods</strong>:
 <ul>
