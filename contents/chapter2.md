@@ -8,8 +8,6 @@ The analyst nods.
 
 *“To answer that, we have to start before open conflict. Hostility leaves footprints long before it explodes.”*
 
-![Image 4](/ada-course-website/assets/img/image4.jpeg)
-
 <div style="text-align:center;">
   <img src="/ada-course-website/assets/img/image4.jpeg" width="400" alt="">
 </div>
