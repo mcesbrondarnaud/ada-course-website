@@ -8,8 +8,6 @@ The analyst nods.
 
 *“Exactly. Negativity isn’t constant. It comes in waves.”*
 
-![Image 2](/ada-course-website/assets/img/image2.jpeg)
-
 <div style="text-align:center;">
   <img src="/ada-course-website/assets/img/image2.jpeg" width="400" alt="">
 </div>
