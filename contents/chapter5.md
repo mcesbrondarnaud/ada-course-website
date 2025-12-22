@@ -24,6 +24,16 @@ We model the negativity ratio of cluster *i* at week *t + 1* as: **r<sub>i,t+1</
 
 *"We fed the model years of data,"* the analyst says. "Here is the **forecast versus reality.**"
 
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26916498/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
+
 <iframe src='https://flo.uri.sh/visualisation/26916498/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 
