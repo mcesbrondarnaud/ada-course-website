@@ -19,6 +19,17 @@ The analyst pulls up the historical archives. *"We analyzed years of Reddit conf
 
 The visualization below tracks the **accumulated hostility** sent by Reddit's top 5 subreddits versus the average of the other top 45.
 
+<div class="card p-3 my-4 shadow-sm">
+  <iframe
+    src="https://flo.uri.sh/visualisation/26553662/embed"
+    title="Flourish graph"
+    frameborder="0"
+    scrolling="no"
+    style="width:100%;height:600px;border-radius:12px;"
+  ></iframe>
+</div>
+
+
 <iframe src='https://flo.uri.sh/visualisation/26553662/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 "So the enemy is entrenched," Lisa says. *"We aren't fighting a mob. We are fighting an institution."*
 
